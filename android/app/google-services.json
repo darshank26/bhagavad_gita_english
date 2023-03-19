@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004524867529",
+    "project_id": "bhagavad-gita-english-ec0a7",
+    "storage_bucket": "bhagavad-gita-english-ec0a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004524867529:android:a0826ef9da231dec902218",
+        "android_client_info": {
+          "package_name": "com.darshankomu.bhagavad_gita_english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004524867529-vhu55chjmq6t1f6foc7669u1utjim6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39Ggk_s-BFCLtCxCNeeP528QHeXhdM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004524867529-vhu55chjmq6t1f6foc7669u1utjim6nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
