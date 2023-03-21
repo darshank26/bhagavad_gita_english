@@ -1,7 +1,9 @@
+import 'package:bhagavad_gita_english/Screens/ShlokaDetailScreen.dart';
 import 'package:bhagavad_gita_english/utils/constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:page_transition/page_transition.dart';
 
 class SholkaScreen extends StatefulWidget {
   @override
@@ -128,7 +130,10 @@ class SholkaScreenState extends State<SholkaScreen> {
                               child: OutlinedButton(
                                 onPressed: () =>
                                 {
-
+                                  if(i == 0)
+                                    {
+                                      Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: ShlokaDetailScreen(listIndex : i,chapter: 1)))
+                                    }
                                 },
                                 style: ButtonStyle(
                                   side: MaterialStateProperty.all(BorderSide(
@@ -216,6 +221,8 @@ class SholkaScreenState extends State<SholkaScreen> {
                               child: OutlinedButton(
                                 onPressed: () =>
                                 {
+
+
 
                                 },
                                 style: ButtonStyle(
