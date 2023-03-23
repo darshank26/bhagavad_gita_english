@@ -117,7 +117,7 @@ class SholkaScreenState extends State<SholkaScreen> {
                     color: kmarroncolor,
                     child:  ListView.builder(
                       shrinkWrap: true,
-                      itemCount: 48,
+                      itemCount: 46,
                       itemBuilder: (context, i) {
                         return ListTile(
                           title: Padding(
@@ -130,10 +130,9 @@ class SholkaScreenState extends State<SholkaScreen> {
                               child: OutlinedButton(
                                 onPressed: () =>
                                 {
-                                  if(i == 0)
-                                    {
-                                      Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: ShlokaDetailScreen(listIndex : i,chapter: 1)))
-                                    }
+
+                                  Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: ShlokaDetailScreen(listIndex : i,chapter: 1)))
+
                                 },
                                 style: ButtonStyle(
                                   side: MaterialStateProperty.all(BorderSide(
