@@ -116,6 +116,43 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: kmarroncolor,
       appBar: AppBar(
+        // actions: [
+        //   PopupMenuButton(
+        //     color:kmarroncolor,
+        //     // add icon, by default "3 dot" icon
+        //     // icon: Icon(Icons.book)
+        //       itemBuilder: (context){
+        //         return [
+        //           PopupMenuItem<int>(
+        //             value: 0,
+        //             child: Text("My Account",style: GoogleFonts.poppins(
+        //                 fontSize: 16,
+        //                 color: kprimarycolor,
+        //                 fontWeight: FontWeight.bold)),
+        //           ),
+        //
+        //           PopupMenuItem<int>(
+        //             value: 1,
+        //             child: Text("Settings"),
+        //           ),
+        //
+        //           PopupMenuItem<int>(
+        //             value: 2,
+        //             child: Text("Logout"),
+        //           ),
+        //         ];
+        //       },
+        //       onSelected:(value){
+        //         if(value == 0){
+        //           print("My account menu is selected.");
+        //         }else if(value == 1){
+        //           print("Settings menu is selected.");
+        //         }else if(value == 2){
+        //           print("Logout menu is selected.");
+        //         }
+        //       }
+        //   ),
+        // ],
         backgroundColor: kprimarycolor,
         elevation: 10,
         title: Align(
@@ -151,10 +188,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         child: OutlinedButton(
                           onPressed: () =>
                           {
-                            if(i == 0)
-                              {
-                                Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: SholkaScreen()))
-                              }
+
+                            Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: SholkaScreen(chapter: i,)))
+
 
                           },
                           style: ButtonStyle(
@@ -186,38 +222,21 @@ class _HomeScreenState extends State<HomeScreen> {
 
                                             Column(
                                               children: [
-                                                isLanguageSelected ?
-                                                Padding(
-                                                  padding: const EdgeInsets.all(8.0),
-                                                  child: Container(
-                                                    child: Text(aarthilistEnglish[i].toString(),
-                                                      style: GoogleFonts.poppins(
-                                                          letterSpacing: 0.8,
-                                                          fontSize: 18,
-                                                          color: kmarroncolor,
-                                                          fontWeight: FontWeight.bold
-                                                      ),
-                                                      softWrap: false,
-                                                      overflow: TextOverflow.fade,
-                                                      textAlign: TextAlign.center,),
-                                                  ),
-                                                ):
                                                 Padding(
                                                   padding: const EdgeInsets.all(8.0),
                                                   child: Text(gita_chapter[i].toString(),
-                                                    style: GoogleFonts.aBeeZee(
+                                                    style: GoogleFonts.poppins(
+                                                      letterSpacing: 1,
                                                       fontSize: 20,
                                                       color: kmarroncolor,
-                                                      fontWeight: FontWeight.bold,
+                                                      fontWeight: FontWeight.w600,
                                                     ),
                                                     textAlign: TextAlign.center,),
                                                 )
-
                                               ],
                                             ),
 
-                                            // Image.asset('assets/images/bottom.png',
-                                            //   height: 20,width: 300.0, ),
+
                                           ],
                                         ),
                                       ],

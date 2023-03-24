@@ -223,13 +223,9 @@ class _SplashScreenState extends State<IntroSplashScreen> {
     super.initState();
     Timer(Duration(seconds:3 ), ()=>
         Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => HomeScreen())));
-    // Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => MAinScreen())));
-
   }
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setEnabledSystemUIMode(SystemUiMode.leanBack);
-
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Bhagawad Gita',

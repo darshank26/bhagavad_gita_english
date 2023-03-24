@@ -6,17 +6,25 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:page_transition/page_transition.dart';
 
 class SholkaScreen extends StatefulWidget {
+  final int chapter;
+
+  const SholkaScreen({Key? key,required this.chapter}) : super(key: key);
+
   @override
-  SholkaScreenState createState() => SholkaScreenState();
+  _SholkaScreenState createState() => _SholkaScreenState(chapter);
 }
 
-class SholkaScreenState extends State<SholkaScreen> {
+class _SholkaScreenState extends State<SholkaScreen> {
 
+  final int chapter;
+
+  _SholkaScreenState(this.chapter); //constructor
 
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
       length: 18,
+      initialIndex: chapter,
       child: Scaffold(
         backgroundColor: kmarroncolor,
         appBar: AppBar(
@@ -117,7 +125,7 @@ class SholkaScreenState extends State<SholkaScreen> {
                     color: kmarroncolor,
                     child:  ListView.builder(
                       shrinkWrap: true,
-                      itemCount: 46,
+                      itemCount: 47,
                       itemBuilder: (context, i) {
                         return ListTile(
                           title: Padding(
@@ -220,8 +228,7 @@ class SholkaScreenState extends State<SholkaScreen> {
                               child: OutlinedButton(
                                 onPressed: () =>
                                 {
-
-
+                                  Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: ShlokaDetailScreen(listIndex : i,chapter: 2)))
 
                                 },
                                 style: ButtonStyle(
