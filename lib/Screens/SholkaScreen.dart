@@ -215,7 +215,7 @@ class _SholkaScreenState extends State<SholkaScreen> {
                     color: kmarroncolor,
                     child:  ListView.builder(
                       shrinkWrap: true,
-                      itemCount: 73,
+                      itemCount: 72,
                       itemBuilder: (context, i) {
                         return ListTile(
                           title: Padding(
