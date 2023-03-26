@@ -78,7 +78,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
     if(widget.chapter == 1)
     {
         return DefaultTabController(
-          length: 47,
+          length: 48,
           initialIndex: listIndex,
           child: Scaffold(
             backgroundColor: kdetailbackground,
