@@ -13,7 +13,8 @@ import 'package:page_transition/page_transition.dart';
 
 import '../utils/chapter1.dart'; // import this
 import '../utils/chapter2.dart';
-import '../utils/chapter3.dart'; // import this
+import '../utils/chapter3.dart';
+import '../utils/chapter4.dart'; // import this
 
 class ShlokaDetailScreen extends StatefulWidget {
   final int listIndex;
@@ -9655,7 +9656,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
     else if(widget.chapter == 4)
     {
       return DefaultTabController(
-        length: 43,
+        length: 42,
         initialIndex: listIndex,
         child: Scaffold(
           backgroundColor: kdetailbackground,
@@ -9814,9 +9815,6 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                       Tab(
                         child: Text("Shloka 42",style: TextStyle(fontSize: 16,)),
                       ),
-                      Tab(
-                        child: Text("Shloka 43",style: TextStyle(fontSize: 16,)),
-                      ),
 
 
                     ],
@@ -9848,7 +9846,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[0],
+                                          chapter_four_trans_sanskrit[0],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -9861,7 +9859,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[0],
+                                          chapter_four_english[0],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -9903,7 +9901,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[1],
+                                          chapter_four_trans_sanskrit[1],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -9916,7 +9914,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[1],
+                                          chapter_four_english[1],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -9958,7 +9956,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[2],
+                                          chapter_four_trans_sanskrit[2],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -9971,7 +9969,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[2],
+                                          chapter_four_english[2],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10013,7 +10011,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[3],
+                                          chapter_four_trans_sanskrit[3],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10026,7 +10024,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[3],
+                                          chapter_four_english[3],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10068,7 +10066,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[4],
+                                          chapter_four_trans_sanskrit[4],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10081,7 +10079,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[4],
+                                          chapter_four_english[4],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10123,7 +10121,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[5],
+                                          chapter_four_trans_sanskrit[5],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10136,7 +10134,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[5],
+                                          chapter_four_english[5],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10178,7 +10176,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[6],
+                                          chapter_four_trans_sanskrit[6],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10191,7 +10189,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[6],
+                                          chapter_four_english[6],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10233,7 +10231,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[7],
+                                          chapter_four_trans_sanskrit[7],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10246,7 +10244,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[7],
+                                          chapter_four_english[7],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10288,7 +10286,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[8],
+                                          chapter_four_trans_sanskrit[8],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10301,7 +10299,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[8],
+                                          chapter_four_english[8],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10343,7 +10341,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[9],
+                                          chapter_four_trans_sanskrit[9],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10356,7 +10354,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[9],
+                                          chapter_four_english[9],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10398,7 +10396,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[10],
+                                          chapter_four_trans_sanskrit[10],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10411,7 +10409,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[10],
+                                          chapter_four_english[10],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10453,7 +10451,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[11],
+                                          chapter_four_trans_sanskrit[11],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10466,7 +10464,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[11],
+                                          chapter_four_english[11],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10508,7 +10506,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[12],
+                                          chapter_four_trans_sanskrit[12],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10521,7 +10519,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[12],
+                                          chapter_four_english[12],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10563,7 +10561,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[13],
+                                          chapter_four_trans_sanskrit[13],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10576,7 +10574,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[13],
+                                          chapter_four_english[13],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10618,7 +10616,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[14],
+                                          chapter_four_trans_sanskrit[14],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10631,7 +10629,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[14],
+                                          chapter_four_english[14],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10673,7 +10671,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[15],
+                                          chapter_four_trans_sanskrit[15],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10686,7 +10684,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[15],
+                                          chapter_four_english[15],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10728,7 +10726,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[16],
+                                          chapter_four_trans_sanskrit[16],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10741,7 +10739,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[16],
+                                          chapter_four_english[16],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10783,7 +10781,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[17],
+                                          chapter_four_trans_sanskrit[17],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10796,7 +10794,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[17],
+                                          chapter_four_english[17],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10838,7 +10836,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[18],
+                                          chapter_four_trans_sanskrit[18],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10851,7 +10849,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[18],
+                                          chapter_four_english[18],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10893,7 +10891,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[19],
+                                          chapter_four_trans_sanskrit[19],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10906,7 +10904,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[19],
+                                          chapter_four_english[19],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10948,7 +10946,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[20],
+                                          chapter_four_trans_sanskrit[20],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -10961,7 +10959,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[20],
+                                          chapter_four_english[20],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11003,7 +11001,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[21],
+                                          chapter_four_trans_sanskrit[21],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11016,7 +11014,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[21],
+                                          chapter_four_english[21],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11058,7 +11056,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[22],
+                                          chapter_four_trans_sanskrit[22],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11071,7 +11069,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[22],
+                                          chapter_four_english[22],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11113,7 +11111,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[23],
+                                          chapter_four_trans_sanskrit[23],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11126,7 +11124,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[23],
+                                          chapter_four_english[23],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11168,7 +11166,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[24],
+                                          chapter_four_trans_sanskrit[24],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11181,7 +11179,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[24],
+                                          chapter_four_english[24],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11223,7 +11221,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[25],
+                                          chapter_four_trans_sanskrit[25],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11236,7 +11234,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[25],
+                                          chapter_four_english[25],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11278,7 +11276,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[26],
+                                          chapter_four_trans_sanskrit[26],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11291,7 +11289,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[26],
+                                          chapter_four_english[26],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11333,7 +11331,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[27],
+                                          chapter_four_trans_sanskrit[27],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11346,7 +11344,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[27],
+                                          chapter_four_english[27],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11388,7 +11386,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[28],
+                                          chapter_four_trans_sanskrit[28],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11401,7 +11399,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[28],
+                                          chapter_four_english[28],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11443,7 +11441,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[29],
+                                          chapter_four_trans_sanskrit[29],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11456,7 +11454,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[29],
+                                          chapter_four_english[29],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11498,7 +11496,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[30],
+                                          chapter_four_trans_sanskrit[30],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11511,7 +11509,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[30],
+                                          chapter_four_english[30],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11553,7 +11551,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[31],
+                                          chapter_four_trans_sanskrit[31],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11566,7 +11564,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[31],
+                                          chapter_four_english[31],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11608,7 +11606,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[32],
+                                          chapter_four_trans_sanskrit[32],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11621,7 +11619,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[32],
+                                          chapter_four_english[32],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11663,7 +11661,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[33],
+                                          chapter_four_trans_sanskrit[33],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11676,7 +11674,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[33],
+                                          chapter_four_english[33],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11718,7 +11716,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[34],
+                                          chapter_four_trans_sanskrit[34],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11731,7 +11729,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[34],
+                                          chapter_four_english[34],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11773,7 +11771,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[35],
+                                          chapter_four_trans_sanskrit[35],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11786,7 +11784,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[35],
+                                          chapter_four_english[35],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11828,7 +11826,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[36],
+                                          chapter_four_trans_sanskrit[36],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11841,7 +11839,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[36],
+                                          chapter_four_english[36],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11883,7 +11881,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[37],
+                                          chapter_four_trans_sanskrit[37],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11896,7 +11894,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[37],
+                                          chapter_four_english[37],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11938,7 +11936,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[38],
+                                          chapter_four_trans_sanskrit[38],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11951,7 +11949,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[38],
+                                          chapter_four_english[38],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -11993,7 +11991,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[39],
+                                          chapter_four_trans_sanskrit[39],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12006,7 +12004,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[39],
+                                          chapter_four_english[39],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12048,7 +12046,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[40],
+                                          chapter_four_trans_sanskrit[40],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12061,7 +12059,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[40],
+                                          chapter_four_english[40],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12103,7 +12101,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_three_trans_sanskrit[41],
+                                          chapter_four_trans_sanskrit[41],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12116,7 +12114,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_three_english[41],
+                                          chapter_four_english[41],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -12138,61 +12136,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
                       ),
                     ),
-                    // 43 tab bar view widget
-                    Container(
-                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
-                      child: Stack(
-                        children: [
-                          SizedBox(
-                              width: double.infinity,
-                              height: double.infinity,
-                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
-                          Container(
-                            padding: const EdgeInsets.all(40),
-                            child: SingleChildScrollView(
-                              child: Padding(
-                                padding: const EdgeInsets.only(top:40),
-                                child: Align(
-                                  alignment: Alignment.center,
-                                  child: Column(
-                                    children: [
-                                      Container(
-                                        child: Text(
-                                          chapter_three_trans_sanskrit[42],
-                                          style: GoogleFonts.poppins(
-                                            letterSpacing: 1,
-                                            fontSize: 18,
-                                            height: 2,
-                                            fontWeight: FontWeight.w700,
-                                            color: kprimarycolor,
-                                          ),
-                                          textAlign: TextAlign.center,),
-                                      ),
-                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
-                                      Container(
-                                        child: Text(
-                                          chapter_three_english[42],
-                                          style: GoogleFonts.poppins(
-                                            letterSpacing: 1,
-                                            fontSize: 18,
-                                            height: 2,
-                                            fontWeight: FontWeight.w700,
-                                            color: kprimarycolor,
-                                          ),
-                                          textAlign: TextAlign.center,),
-                                      ),
 
-                                    ],
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-
-                        ],
-
-                      ),
-                    ),
 
                   ],
                 ),
@@ -12207,7 +12151,6 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
         ),
       );
     }
-
     return Container();
 
   }

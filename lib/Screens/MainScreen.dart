@@ -191,7 +191,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
                             Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: SholkaScreen(chapter: i,)))
 
-
                           },
                           style: ButtonStyle(
                             side: MaterialStateProperty.all(BorderSide(
