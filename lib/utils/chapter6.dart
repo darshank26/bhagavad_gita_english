@@ -23,6 +23,14 @@ List<String> chapter_six_trans_sanskrit = [
   "Yaṁ labdhvā cāparaṁ lābhaṁ manyate nādhikaṁ tataḥ Yasmin sthito na duḥkhena guruṇāpi vicalyate",
   "Tam vidyaad dukha-samyo-ga-viyogam yogasamjnitam Sa nishchayena yoktavyo yogo'nirvinnachetasaa.",
   "Sankalpa prabhavan kaman tyaktva sarvan asheshatah, manasaivendriya-gramam viniyamya samantatah.",
+  "shanaih shanairuparamed buddhyaa dhritigriheetayaa aatmasamstham manah kritwaa na kinchidapi chintayet",
+  "yato yato nishcharati manashchanchalamasthiram tatas tato niyamyaitadatmanyeva vasham nayet",
+  "prashantamanasam hyenam yoginam sukhmuttamam upaiti shantarajasam brahmabhutamakalmasham",
+  "yuñjann evaṁ sadātmānaṁ yogī vigatakalmaṣaḥ sukena brahma-saṁsparśam atyantaṁ sukham aśnute",
+  "Sarva-bhūta-stham ātmānam, sarva-bhūtāni cātmani, īkṣate yoga-yuktātmā, sarvatra samadarśanaḥ.",
+  "Yo māṁ paśyati sarvatra, sarvaṁ ca mayi paśyati, tasyāhaṁ na praṇaśyāmi, sa ca me na praṇaśyati.",
+  "Sarvabhūta-sthitaṁ yo māṁ bhajatyekatvamāsthitaḥ, sarvathā vartamāno'pi sa yogī mayi vartate.",
+  "ātmaupamyena sarvatra samaṃ paśyati yo'rjuna, sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ"
   ];
 
 
@@ -50,6 +58,14 @@ List<String> chapter_six_english = [
   "That which is perceivable by the mind, which is supremely blissful, and which is beyond the grasp of the senses, is known as the supreme happiness. Having realized this happiness, the self-controlled yogi neither desires anything else nor grieves for anything that he may have lost.",
   " One who believes that gaining a certain thing will make them happier than obtaining something else, is mistaken. One who remains steady and unperturbed even when facing difficulties, is not shaken even by the greatest sorrow.",
   "One should understand that yoga is the disconnection from the union with suffering. With a steadfast mind, one should engage in yoga with determination.",
-  "One who has given up all desires that arise in the mind and has completely restrained the senses, by the power of determination; with the mind fixed on the Supreme Being, is called undeviating in yoga."
+  "One who has given up all desires that arise in the mind and has completely restrained the senses, by the power of determination; with the mind fixed on the Supreme Being, is called undeviating in yoga.",
+  "Gradually, with steady and focused intelligence and determination, one should withdraw oneself from all material desires and cravings, and bring the mind to rest upon the self within. One should think of nothing else.",
+  "Wherever the mind wanders restlessly and unsteady, one should bring it back and concentrate it upon the self alone.",
+  "This yogi, with a tranquil mind, attains the supreme happiness, where the passion and anger have been subdued, and has become free from sin, and has realized the Brahman, the ultimate reality.",
+  "The yogi who constantly practices this, free from all impurities, with a well-controlled mind, easily attains the supreme happiness of contact with Brahman.",
+  " A yogi who is united with the Lord through yoga sees the Self present in all beings and all beings present within the Self. Such a person sees everything with an equal vision.",
+  "He who sees Me in all things and sees all things in Me, I never leave him nor does he ever leave Me.",
+  "One who worships Me, who is present in all beings, realizing the oneness of all existence, remains in Me, regardless of how they appear to live in this world.",
+  "He who sees Me everywhere and sees everything in Me, he is never lost to Me, nor am I ever lost to him. He who is steadfast in this yogic vision, O Arjuna, sees the Self abiding in all beings, and all beings in the Self, and he sees the same everywhere.",
 
 ];
