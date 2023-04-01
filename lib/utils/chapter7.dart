@@ -1,18 +1,69 @@
 List<String> chapter_seven_trans_sanskrit = [
-
-
-
-
-
-
+  "Shri Bhagavaanuvaacha, mayyaasaktamanah paartha yogam yunjanmadaashrayah. Asamshayam samagram maam yathaa jnaasyasi tachchhunu.",
+  "Gyaanam teham savijnaanam idam vakshyaamyasheshatah. Yajjnaatwaa neha bhooyo'nyajjnaatavyam avashishyate.",
+  "Manushyaanaam sahaasreshu kashchid yatati siddhaye, yatataam api siddhaanaam kashchin maam vetti tattvatah.",
+  "Bhoomirapo'nalo vayuhu kham mano buddhireva cha, ahankaara iteeyam me bhinnaa prakritirashthadha.",
+  "apareyamitastvanyām prakrtim viddhi me parām jīvabhūtām mahābāho yayedam dhāryate jagat",
+  "Etad yonīni bhūtāni sarvānītyupadhāraya, Aham krtsnasya jagatah prabhavah pralayastathā",
+  "Mattah parataram naanyat kinchidasti dhananjaya, Mayi sarvamidam protam sutre mani-ganaa iva.",
+  "Raso'hamapsu kaunteya, prabhaasmi shashisooryayo, Pranavah sarvavedeshu, shabdah khe paurusham nrishu.",
+  "Punyo gandhah prthivyām cha, tejashchāsmi vibhāvasau, Jīvanam sarvabhūteshu, tapashchāsmi tapasvishu.",
+  "bījam mām sarvabhūtānām viddhi pārtha sanātanam buddhir buddhimatām asmi tejas tejasvinām aham",
+  "Balam balavatām chaaham kāmarāgavivarjitam, Dharmāviruddho bhūteshu kāmo'smi bharatarshabha",
+  "ye chaiva sāttvikā bhāvā rājasās tāmasāścha ye matta eveti tān viddhi na tvaham teshu te mayi",
+  "Tribhirgunamayairbhavairebhih sarvamidam jagat Mohitam nabhijanati mam ebhyah paramavyayam",
+  "daivī hyesā gunamayī mama māyā duratyayā mām-eva ye prapadyante māyāmetām taranti te",
+  "na mām duskrtinō mūdhāh prapadyantē narādhamāh, māyayāpahrtajñānā āsuram bhāvamāśritāh",
+  "Chatur-vidhaa bhajante maam janaah sukritino'rjuna, aarto jijnasur artharthi jnaani cha bharatarshabha.",
+  "Tesam jnani nitya-yukta ekabhaktirvisisyate, priyo hi jnanino 'tyartham aham sa ca mama priyah",
+  "udārāh sarva evaite jñānī tvātmaiva me matam āsthitah sa hi yuktātmā mām evānuttamām gatim",
+  "bahūnām janmanāmante jñānavān mām prapadyate vāsudevah sarvam iti sa mahātmā sudurlabhah",
+  "kāmais tais tair hrta-jñānāh prapadyante ’nya-devatāh tam tam niyamam āsthāya prakrtyā niyatāh svayā",
+  "yo yo yām yām tanum bhaktah śraddhayārcitumicchati, tasya tasyācalām śraddhām tāmeva vidadhāmyaham",
+  "sa tayā śraddhayā yuktas tasyārādhanamīhate labhate ca tatah kāmān mayaitām vihitān hi tān",
+  "antavattu phalam tesām tad bhavaty alpamedhasām, devān deva-yajo yānti mad-bhaktā yānti mām api",
+  "avvyaktam vyaktim āpannam manyante māmabuddhayah param bhāvam ajānanto mamāvyayamanuttamam",
+  "nāham prakāśah sarvasya yogamāyāsamāvrtah mūdho'yam nābhijānāti loko māmajamavyayam",
+  "vedāham samatītāni vartamānāni cārjuna bhavisyāni ca bhūtāni mām tu veda na kaścana",
+  "icchādvesasamutthena dvandvamohena bhārata sarvabhūtāni sammoham sarge yānti parantapa",
+  "yesām tvantagatam pāpam janānām punyakarmanām te dvandvamohanirmuktā bhajante mām drdhavratah",
+  "jarāmaranamoksāya māmāśritya yatanti ye te brahma tadviduh krtsnam adhyātmam karma cākhilam",
+  "sādhibhūtādhidaivam mām sādhiyajñam cha ye viduh prayānakāle 'pi cha mām te vidur yukta-cetasah",
   ];
 
 
 
 List<String> chapter_seven_english = [
+  "Shri Bhagavan said, 'O Partha, with your mind attached to Me, performing yoga, taking refuge in Me, without doubt, you will know Me completely, listen to how.'",
+  "I shall now declare to you in full this knowledge, both phenomenal and numinous. Having known this, nothing further shall remain for you to know.",
+  "Lord Krishna says, \"Among thousands of men, scarcely one strives for perfection, and even among those who strive, only a few know me in truth.\"",
+  "This verse explains that there are six fundamental elements - earth, water, fire, air, space, and consciousness (mind, intelligence, and ego) - that are essential for the creation of this universe. These elements together form our nature or Prakriti.",
+  "This verse explains that there are two types of nature: the physical elements that make up the material world, and the conscious entities that give life to these elements. The latter sustains the entire universe.",
+  "Understand that all beings have their origin in this, and that I am the source of the entire creation, both material and spiritual. Everything emanates from Me. Knowing this, wise men engage in My devotional service with great determination.",
+  "There is no truth superior to Me, O Arjuna. Everything rests upon Me, as pearls are strung on a thread.",
+  "I am the taste of water, O son of Kunti, and the light of the sun and the moon. I am the sacred syllable OM in the Vedic mantras; I am the sound in ether and ability in men.",
+  "This verse highlights the divine qualities present in nature and living beings, including fragrance, light, life, and austerity.",
+  "Know Me to be the eternal seed of all beings, O Arjuna. I am the intelligence of the intelligent and the brightness of the bright.",
+  "I am the strength of the strong, devoid of passion and desire. I am sex life which is not contrary to religious principles, O lord of the Bharatas [Arjuna].",
+  "Those states of being arising from sattva, rajas and tamas – know thou they all are from me. Yet am I not in them; they are in me.",
+  "The whole world is confused by these three modes of material nature. But I am not bewildered, because I am transcendental to these modes which are inexhaustible.",
+  "This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.",
+  "Those who are deluded, who have lost their discernment, and who embrace demoniacal thoughts do not take refuge in me, but rather in the delusion created by their own bad deeds.",
+  "O Arjuna, four kinds of pious people engage in devotional service to Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.",
+  "Among them, the one with knowledge who is constantly engaged in devotion is the best. I am dear to the knowledgeable person, and he is dear to me.",
+  "All these liberal-minded persons are undoubtedly elevated to the heavenly planets because of their righteous deeds. But he who has taken shelter of Me, in spite of all difficulties, is assured of liberation because I am the Supreme Personality of Godhead, situated in transcendence.",
+  "At the end of many births, the wise one seeks refuge in me, realizing that Vasudeva is everything. Such a great soul is very rare.",
+  "Those whose knowledge has been stolen by material desires surrender to various demigods and follow the particular rules and regulations of worship according to their own natures.",
+  "Whatever form a devotee with faith desires to worship, I make their faith steadfast. Endowed with that faith, the devotee worships that form and from it obtains their desires, which are actually fulfilled by Me alone." ,
+  "With that faith, being fully committed, they engage in the worship of that deity and obtain their desired results, which are actually granted by me alone.",
+  "For those whose intelligence is limited, the results achieved by worshipping the celestial gods are temporary and impermanent. My devotees, however, attain to Me alone.",
+  " Unenlightened individuals view Me, who have taken on a manifest form, as being unmanifest. They are unaware of My supreme, immutable and unsurpassed nature.",
+  "I am not manifest to everyone, being veiled by the divine power of illusion. Therefore, those who do not recognize my transcendental nature, as the eternal and all-pervading Lord of all creation, are foolish and spiritually deluded.",
+  "Arjuna, I know of all the past, present, and future, and I also know all living beings; but Me, no one knows.",
+  "O Arjuna, due to the rise of desires and attachments, and delusion born of duality and ignorance, all beings become subject to illusion at the time of creation and destruction.",
+  "Those who, performing virtuous deeds, have their sins come to an end, and who are freed from the delusion of duality, worship Me with determination.",
+  "Those who strive for liberation from old age and death by taking refuge in Me, they understand the Absolute Reality, the entirety of the individual self, and all activities.",
+  "Those who understand Me as the Supreme Lord of all beings, the governing principle of the material manifestation and the demigods, and those who know Me as the Supreme Personality of Godhead, without doubting, they are the ones who truly know. And at the time of death, with a steady mind, such persons remember Me and thus attain Me.",
 
 
-
-
-
-  ];
+];
