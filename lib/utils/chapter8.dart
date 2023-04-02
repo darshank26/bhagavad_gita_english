@@ -1,0 +1,43 @@
+List<String> chapter_eight_trans_sanskrit = [
+  "arjuna uvācha kiṃ tad brahma kim adhyātmam kiṃ karma puruṣottama adhibhūtaṃ cha kiṃ proktam adhidaivaṃ kim uchyate",
+  "adhiyajñaḥ kathaṁ ko'tra dehe'smin madhusūdana prayāṇa-kāle cha kathaṁ jñeyo'si niyatātmabhiḥ",
+  "śrī-bhagavān uvāca akṣaraṁ brahma paramaṁ svabhāvo'dhyātmamucyate bhūta-bhāvodbhava-karo visargaḥ karmasaṁjñitaḥ",
+  "adhibhūtaṁ kṣaro bhāvaḥ puruṣaścādhidaivatam adhiyajño'ham evātra dehe dehabhṛtāṁ vara",
+  "Antakāle ca mām eva smaran muktvā kalevaram Yaḥ prayāti sa madbhāvaṁ yāti nāstyatra saṁśayaḥ.",
+  "Yaṁ yaṁ vāpi smaranbhāvaṁ tyajatyante kalevaram taṁ tamevaiti kaunteya sadā tad-bhāva-bhāvitaḥ",
+  "Tasmāt sarveṣu kāleṣu māmanusmara yudhya ca rāga-dveṣa-vimuktais tu viṣayān indriyaiś caran",
+  "Abhyāsa-yoga-yuktena cetasā nānya-gāminā Paramaṃ puruṣaṃ divyaṃ yāti pārtha anucintayan",
+  "Kaviṁ purāṇam anuśāsitāram aṇor aṇīyāṁsam anusmared yaḥ sarvasya dhātāram acintya-rūpam āditya-varṇaṁ tamasaḥ parastāt",
+  "Prayāṇa-kāle manasāchalena bhakti-yogena yaḥ sevate sa guhyaṁ yoga-bhraṣṭo ’bhijāyate tatra saṁsāyāvasto ’pi paṇḍitaḥ",
+"Yadaksharam vedavido vadanti Vishanti yadyatayo veetaraagaah Yadichchhanto brahmacharyam charanti Tatte padam sangrahena pravakshye.",
+  "sarva-dvārāṇi saṁyamya mano hṛdi nirudhya ca mūrdhny ādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām",
+  "omityekākṣaraṁ brahma vyāharanmāmanusmaran yaḥ prayāti tyajandehaṁ sa yāti paramāṁ gatim",
+  "ananyacetaḥ satataṃ yo māṃ smarati nityaśaḥ tasyāhaṃ sulabhaḥ pārtha nitya-yuktasya yoginaḥ",
+  "Mamupetya punarjanma duhkhalayamashashvatam Napnuvanti mahatmanah samsiddhim paramam gatah",
+  "Abrahmabhuvanallokaah punaraavartino'rjuna Maamupetya tu kaunteya punarjanma na vidyate",
+  "Sahasrayugaparyantamaharyad brahmano viduhu Ratrim yugasahasrantam te'horatravido janah",
+  "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame rātryāgame pralīyante tatraivāvyakta-saṃjñake",
+  ];
+
+
+List<String> chapter_eight_english = [
+"Arjuna said: O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.",
+  "Arjuna asked, \"O Madhusudana, who is the Adhibhuta and how does he dwell in this body? How can you be realized at the time of death by those who have fixed their minds on you?\"",
+  "The Supreme Lord said: The imperishable Brahman is the highest reality and is called the Self. Its essential nature is called adhyatma. The creation of the material world is called bhutabhava, while the dissolution of the material world is called visarga, and action in the material world is called karma.",
+  "I am the Adhibhuta (the Lord of the material elements), the perishable manifestation of the spirit, and the Adhidaiva (the Lord of the celestial gods), the imperishable manifestation. I alone am the Adhiyajna (the Lord of all sacrifices) present in this body, O best among those who uphold righteousness.",
+  "And whoever, at the end of their life, quits their body remembering me alone, at once attains my nature. Of this there is no doubt.",
+  "Whatever state of being one remembers when one quits their body, O son of Kunti (Arjuna), one attains that state without fail as one's nature is molded by their thoughts and beliefs.",
+  "Therefore, always remember Me and also do your duty of fighting the battle. With mind and senses disciplined by renunciation, and freed from the dualities of attraction and aversion, be always absorbed in Me.",
+  "O Partha, one who, with a mind undistracted by any other practice, constantly engages in the practice of meditation upon the Supreme Person, attains the divine and transcendental destination.",
+  "Whoever, at the time of death, with a mind steadfast and absorbed in the thought of the Supreme Lord, and with the power of yoga, fixes the life air between the eyebrows, he reaches the highest divine person.",
+  "Whoever, at the time of death, with a mind fixed in devotion, and with the strength of yoga, holds the life breath steadily between the eyebrows, and then, by the power of devotion, focuses the mind entirely on the Supreme Lord, will certainly attain to Him.",
+  "What is that imperishable word which the knowers of the Vedas declare, and by which the renunciants cross over the fear of death? What is that desire which, O Nachiketas, leads men to practice brahmacharya (celibacy) and austerity? That goal I tell thee briefly: it is Om.",
+  "The yogi should hold the mind steady, restraining it from all sides, and fixing it on the heart. He should then steadily draw the life-breath into the Self, and with the mind absorbed in the Self, he should hold it there.",
+  "One who departs from the body while remembering Me, the Supreme Personality of Godhead, and chanting the syllable Om, will attain the supreme goal.",
+  "For those who always remember Me without deviation, I am easily attainable, O Partha, because they are always absorbed in the yoga of devotion.",
+  "Those who reach Me are not reborn in this impermanent and painful world, they achieve the highest perfection.",
+  "From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kunti, never takes birth again.",
+  "By human calculation, a thousand ages taken together form the duration of Brahma's one day. And such also is the duration of his night. Those who know this reality of day and night of Brahma attain eternal life, and are not reborn at the dawn of Brahma's day or the beginning of his night.",
+  "All beings, O Arjuna, are unmanifest in their beginning, manifest in their interim state, and unmanifest again in their end. So what need is there for lamentation?",
+
+];
