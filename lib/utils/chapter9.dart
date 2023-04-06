@@ -7,7 +7,15 @@ List<String> chapter_nine_trans_sanskrit = [
   "Yathaa kaashasthito nityam vaayuh sarvatrago mahan, Tathaa sarvaani bhutaani matsthaaneetyupadhaaraya.",
   "Sarva-bhūtāni kaunteya prakrtim yānti māmikām, kalpa-ksaye punas tāni kalpādau visrjāmy aham.",
   "Prakritim svam avastabhya visrijami punah punah, bhuta-gramamamam krtsnam avasam prakriter vasat.",
-  ];
+  "O Dhananjaya (Arjuna), these actions do not bind me, being unattached like a neutral observer, while remaining unattached to these actions.",
+  "Mayadhkshena prakritih suyate sa-characharam, hetunaneena kaunteya jagadwiparivartate.",
+  "Avajananti mam mudha manusim tanum asritam, param bhavam ajananto mama bhuta-maheshvaram.",
+  "Moghasha moghakarmano moghajnanaa vichetasah, raakshaseem asureem chaiva prakritim mohineem shritaah.",
+  "Mahatmanas tu mam partha daivim prakrtim asritah, bhajantyananya-manaso jnatva bhutadim avyayam.",
+  "Satatam kirtayanto mam yatantas ca drdha-vratah, namasyantas ca mam bhaktya nitya-yukta upasate."
+  "Jnana-yajnena capyanye yajanto mam upasate, ekatvena prthaktvena bahudha visvatomukham.",
+  "Aham kraturaham yajnah, svadha'hamahamausadham, mantr'o'hamaham evajyam, aham agniraham hutam.",
+];
 
 
 List<String> chapter_nine_english = [
@@ -19,4 +27,12 @@ List<String> chapter_nine_english = [
   "As the mighty wind, blowing everywhere, rests always in the sky, in the same way, all beings rest in Me.",
   "O son of Kunti, all created beings enter into My nature at the end of a cycle of time; and I create them again at the beginning of the next cycle.",
   "By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them.",
+  "The quote means detachment, or being unattached to the results of one's actions, as Lord Krishna advises Arjuna to perform his duties in the same way.",
+  "Under My supervision, nature produces all moving and nonmoving beings. O son of Kunti (Arjuna), for this reason, the material world revolves.",
+  "Fools disregard Me, when I take on a human form, not knowing My supreme nature as the great Lord of all beings.",
+  "Those with deluded minds, who engage in futile actions, who lack discrimination and who are under the spell of demoniac and atheistic views, are inclined towards demoniac and atheistic forms of nature.",
+  "O Arjuna, great souls who have taken refuge in My divine nature worship Me with a single-minded devotion, knowing Me as the immutable source of all beings.",
+  "Always singing My glories, striving with great determination, bowing down before Me with devotion, they remain ever steadfast in worshiping Me.",
+  "Others worship Me through the sacrifice of knowledge, with the realization that all beings are one in Me and I am in them, while still others worship Me as the universal form, with the various rituals prescribed in the Vedas.",
+  "I am the ritual, I am the sacrifice, I am the offering to the ancestors, I am the medicinal herb, I am the mantra, I am the clarified butter, I am the fire, and I am the act of offering.",
   ];
