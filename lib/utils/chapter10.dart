@@ -23,6 +23,7 @@ List<String> chapter_ten_trans_sanskrit = [
   "Vedanam samavedo'smi devanamasmi vasavah, indriyanam manashchasm bhutanam asmi chetana.",
   "Rudranam shankarashchasmi vitthesho yaksharakshasam, vasunam pavakashchasmi meruh shikharinamaham.",
   "Purodhasam cha mukhyam mam viddhi Partha Brihaspatim, senaninam aham Skandah sarasam asmi sagarah.",
+
   ];
 
 
