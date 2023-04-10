@@ -23,7 +23,14 @@ List<String> chapter_ten_trans_sanskrit = [
   "Vedanam samavedo'smi devanamasmi vasavah, indriyanam manashchasm bhutanam asmi chetana.",
   "Rudranam shankarashchasmi vitthesho yaksharakshasam, vasunam pavakashchasmi meruh shikharinamaham.",
   "Purodhasam cha mukhyam mam viddhi Partha Brihaspatim, senaninam aham Skandah sarasam asmi sagarah.",
-
+  "Maharshiṇāṁ bhṛgurahaṁ girāmasmyekamakṣaram, Yajñānāṁ japayajño'smi sthāvarāṇāṁ himālayaḥ",
+  "Aśvatthaḥ sarvavṛkṣāṇāṁ devarṣīṇāṁ cha nāradaḥ, Gandharvāṇāṁ chitrarathaḥ siddhānāṁ kapilo muniḥ",
+  "Uccaiḥśravasam-aśvānām viddhi mām amṛtodbhavam, Airāvataṁ gajendrāṇāṁ narāṇāṁ cha narādhipam",
+  "Āyudhānām-aham vajraṁ dhenuunām-asmi kāmadhuk, Prajanaś-chāsmi kandarpaḥ sarpāṇām-asmi vāsukiḥ",
+  "Anantaś-chāsmi nāgānāṁ varuṇo yādasām-aham, Pitṝṇām-aryamā chāsmi yamaḥ saṁyamatām-aham",
+  "Prahlādaś-chāsmi daityānām kālaḥ kalayatām-aham, Mṛgāṇāṁ cha mṛgendro-aham vainateyaś-cha pakṣiṇām",
+  "Pavanaḥ pavatām-asmi Rāmaḥ śastrabhṛtām-aham, Jhaṣhāṇāṁ makaraś-chāsmi srotasām-asmi jāhnavī",
+  "Sargāṇām ādir-antaś cha madhyam chaivāham arjuna, Adhyātma-vidyā vidyānām vādaḥ pravadatām aham"
   ];
 
 
@@ -53,4 +60,12 @@ List<String> chapter_ten_english = [
   "Lord Krishna said, \"Among the Vedas, I am the Sama Veda; among the gods, I am Indra. Among the senses, I am the mind, and among living beings, I am consciousness.\"",
   "Lord Krishna said, \"Among the Rudras, I am Shankara; among the Yakshas and Rakshasas, I am the lord of wealth. Among the Vasus, I am the fire god, and among the mountains, I am Meru.\"",
   "Lord Krishna said, \"Know me to be the chief among priests, O Arjuna, and among the commanders of armies, I am Skanda. Among bodies of water, I am the ocean.\"",
+  "Of the great sages I am Bhṛgu; of vibrations I am the transcendental oṁ. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himalayas.",
+  "Of all trees I am the banyan tree; of the sages among the demigods I am Nārada. Of the celestial musicians I am Citraratha, and among the perfected beings I am the sage Kapila.",
+  "Among horses know me to be Uccaiḥśravas, born of the nectar ocean. Of lordly elephants I am Airāvata, and among men I am the monarch.",
+  "Of weapons I am the thunderbolt; among cows I am the surabhi. Of procreators I am Kandarpa, the god of love, and of serpents I am Vāsuki, the chief.",
+  "Of the many hooded Nagas, I am Ananta. Among the aquatic beings I am Varuna, and of the manes I am Aryama. Among subduers I am Yama, the lord of death.",
+  "Of demons I am Prahlada, and of reckoners of time I am Time himself. Of beasts I am the lion, and of birds I am Garuda, the son of Vinata.",
+  "Of the purifiers, I am the wind, and of the wielders of weapons, I am Rama. Of fishes, I am the shark, and of flowing rivers, I am the Ganges.",
+  "Of creations, I am the beginning, end, and middle, O Arjuna. Of all sciences, I am the science of the self, and of all debates, I am the logical conclusion.",
 ];
