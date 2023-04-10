@@ -30,7 +30,17 @@ List<String> chapter_ten_trans_sanskrit = [
   "Anantaś-chāsmi nāgānāṁ varuṇo yādasām-aham, Pitṝṇām-aryamā chāsmi yamaḥ saṁyamatām-aham",
   "Prahlādaś-chāsmi daityānām kālaḥ kalayatām-aham, Mṛgāṇāṁ cha mṛgendro-aham vainateyaś-cha pakṣiṇām",
   "Pavanaḥ pavatām-asmi Rāmaḥ śastrabhṛtām-aham, Jhaṣhāṇāṁ makaraś-chāsmi srotasām-asmi jāhnavī",
-  "Sargāṇām ādir-antaś cha madhyam chaivāham arjuna, Adhyātma-vidyā vidyānām vādaḥ pravadatām aham"
+  "Sargāṇām ādir-antaś cha madhyam chaivāham arjuna, Adhyātma-vidyā vidyānām vādaḥ pravadatām aham",
+  "akṣarāṇāmakāro'smi dvandvaḥ sāmāsikasya ca ahamevākṣayaḥ kālo dhātāhaḿ viśvatomukhaḥ",
+  "mṛtyuḥ sarvaharaś cāham udbhavaś ca bhaviṣyatām, kīrtiḥ śrīrvāk ca nārīṇām smṛtir medhā dhṛtiḥ kṣamā",
+  "bṛhatsāma tathā sāmnāṃ gāyatrī chandhasāmaham māsānāṃ mārgaśīrṣo'hamṛtūnāṃ kusumākaraḥ",
+  "dyūtaṃ chalayatāmasmi tejas tejasvinām aham jayo’smi vyavasāyo’smi sattvaṃ sattvavatām aham",
+  "vṛṣṇīnāṃ vāsudevō'smi pāṇḍavānāṃ dhanañjayaḥ, munīnāmapyaham vyāsaḥ kavīnāmuśanā kaviḥ",
+  "Daṇḍo damayatām asmi nītirasmi jigīṣatām, Maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatām aham",
+  "yacchāpi sarvabhūtānām bījaṃ tadahamarjuna na tadasti vinā yatsyānmayā bhūtaṃ carācaram",
+  "Na anto'sti mama divyaanaam vibhootiinaam parantapa; esha tuuddeshatah prokto vibhuutervistaro maya.",
+  "yadyad vibhūtimat sattvaṁ śrīmadoorjitameva vā tattadevāvagaccha tvaṁ mama tejo-'śasambhavam",
+  "athavā bahunaitena kiṁ jñātena tavārjuna viṣṭabhyāhamidaṁ kṛtsnam ekāṁśena sthito jagat",
   ];
 
 
@@ -68,4 +78,14 @@ List<String> chapter_ten_english = [
   "Of demons I am Prahlada, and of reckoners of time I am Time himself. Of beasts I am the lion, and of birds I am Garuda, the son of Vinata.",
   "Of the purifiers, I am the wind, and of the wielders of weapons, I am Rama. Of fishes, I am the shark, and of flowing rivers, I am the Ganges.",
   "Of creations, I am the beginning, end, and middle, O Arjuna. Of all sciences, I am the science of the self, and of all debates, I am the logical conclusion.",
+  "I am the letter \"A\" among the alphabets, and the dual among the compounds. I am indeed inexhaustible time, and I am the Creator facing in all directions.",
+  "I am Death, who takes away everything, and I am also the source of future creations. Among feminine qualities, I am fame, speech, memory, intelligence, steadfastness, and forgiveness.",
+  "I am the Brihat Sama among the Sama mantras, and Gayatri among the meters, Among months, I am Margashirsha, and among seasons, I am the flower-bearing spring.",
+  "I am the gambling of the deceitful; I am the splendor of the splendid. Among things that conquer, I am victory; I am the determination of the resolute.",
+  "I am Vasudeva among the Vrishnis, and Dhananjaya among the Pandavas. Among the sages I am Vyasa, and among poets I am Usana.",
+  "I am the punishment of the lawbreakers, and the victory of the victorious. I am the silence of secrets, and the knowledge of the knowledgeable.",
+  "O Arjuna, I am the seed of all beings. There is nothing, animate or inanimate, that can exist without me.",
+  "There is no end to My divine manifestations, O Arjuna. What I have mentioned is only a sample of My infinite glory.",
+  "Whatever is glorious, beautiful, and mighty, know that to be a manifestation of a part of my splendor.",
+  "Or what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe.",
 ];
