@@ -1,0 +1,38 @@
+List<String> chapter_ten_trans_sanskrit = [
+  "Arjuna uvācha: madanugrahāya paramaṁ guhyam adhyātmasaṁjñitam yat tvayoktaṁ vacas tena moho 'yaṁ vigato mama",
+  "bhavāpyayau hi bhūtānāṁ śrutau vistaraśo mayā tvattaḥ kamalapatrākṣa māhātmyam api cāvyayam",
+  "evam etad yathāttha tvam ātmānaṁ parameśvara draṣṭum icchāmi te rūpam aiśvaram puruṣottama",
+  "manyase yadi tac chakyaṁ mayā draṣṭum iti prabho yogeśvara tato me tvam darśayātmānam avyayam",
+  "śrī-bhagavān uvāca paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ nānā-vidhāni divyāni nānā-varṇākṛtīni ca",
+  "paśyādityān vasūn rudrān aśvinau marutastathā bahūni-adṛṣṭa-pūrvāṇi paśyāścaryāṇi bhārata",
+  "ihai-kastham jagat kṛtsnaḿ paśyādya sakalācarām mama dehe gudākeśa yac cānyad draṣṭum icchasi",
+  "na tu māḿ śakyase draṣṭum anenaiva svacakṣuṣā divyaḿ dadāmi te cakṣuḥ pasyame yogam aiśvaram",
+  "sañjaya uvāca evam uktvā tato rājan mahā-yogeśvaro hariḥ darśayām āsa pārthāya paramaḿ rūpam aiśvaram",
+  "aneka-vaktra-nayanam aneka-adbhuta-darshanam aneka-divya-abharanam divya-aneka-udyata-ayudham",
+  "Divyam ālyāmbara-dharam divya-gandhānulepanam, Sarvāścaryamayaṁ devam anantam viśvato-mukham",
+  "divi sūryasahasrasya bhavedyugapadutthitā, yadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ",
+  "tatraikasthaṁ jagatkṛtsnaṁ pravibhaktamanekadhā, apaśyaddevadevasya śarīre pāṇḍavastadā ",
+  "Tatah sa vismayavishto hrishhtaroma dhananjayah, pranamya shirasa devam kritanjali rabhashata.",
+  "Arjuna uvācha paśyāmi devāṁs tava deva dehe sarvāṁs tathā bhūta-viśheṣha-saṅghān brahmāṇam īśhaṁ kamalāsana-sthaṁ ṛiṣhīṁśh cha sarvān uragānśhcha divyān.",
+  "Anekabāhūdaravaktranetram pashyāmi tvām sarvato’nantarūpam nāntaṃ na madhyaṃ na punastavādim pashyāmi viśveśvara viśvarūpa",
+  ];
+
+
+List<String> chapter_ten_english = [
+  "Arjuna said: For the benefit of me, please reveal the supreme, secret knowledge of the self. With those words spoken by you, this delusion of mine has been dispelled.",
+  "The cycle of birth and death of all beings has its origin in me. This is revealed in the scriptures in great detail. You are also indestructible, O lotus-eyed one, and your glories are limitless.",
+  "O Supreme Lord, as You have described Yourself, I wish to see You in that form. O best of persons, if You think that I am able to behold Your cosmic form, then kindly show me that unlimited, supreme, divine form.",
+  "O Lord of yoga, if You think that I am capable of seeing it, then please show me Your imperishable self.",
+  "The Supreme Lord said: Behold, O Arjuna, My forms by the hundreds and thousands, in many different divine varieties, of various colors, shapes, and sizes.",
+  "Behold, O Arjuna, the Adityas, the Vasus, the Rudras, the Asvins, and the Maruts. Behold many wondrous things never before seen, O Arjuna.",
+  "Behold now, O Arjuna, the entire universe, with everything moving and stationary, situated in one place within my body. But you cannot see Me with your physical eyes; therefore, I give you divine eyes, so that you may behold my majestic opulence.",
+  "But you cannot see Me with your ordinary eyes. Therefore, I give you divine eyes to see my majestic power and glory.",
+  "Sanjaya said: O King, having spoken thus, the great Lord of Yoga, Hari (Krishna), showed Arjuna His universal form as the supreme, majestic, and divine.",
+  "Many mouths and eyes had He, manifold were His wonderful sights, Many divine ornaments decked Him, and divine weapons shone bright.",
+  "His divine form adorned with divine garlands and clothing, He wears divine fragrances and is resplendent with every kind of wonder. He is the infinite divine being, the beginning, middle, and end of everything, With faces on all sides, He is omnipresent and all-pervading.",
+  "If a thousand suns were to rise in the sky simultaneously, their radiance might resemble the effulgence of the Supreme Person in that universal form.",
+  "There he saw the entire universe divided in many ways, in the body of the God of gods, Pandava, at that time",
+  "Then, filled with wonder and with hairs standing on end, Arjuna bowed his head to the Lord and spoke with folded hands:",
+  "Arjuna said, \"I behold all the gods in Your body, O Lord, as also hosts of diverse classes of beings. Brahma the Creator, seated on his lotus-seat, and all the Rishis and divine serpents, I see in You.\"",
+  "I see You with countless arms, stomachs, faces, and eyes. You are present everywhere and have infinite forms. I see no beginning, middle, or end to Your being. O Lord of the universe, I see You as the embodiment of everything.",
+];
