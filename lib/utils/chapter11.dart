@@ -30,8 +30,20 @@ List<String> chapter_ten_trans_sanskrit = [
   "yathā pradīptaṃ jvalanaṃ patan̄gā viśanti nāśāya samṛddhavegāḥ, tathaiva nāśāya viśanti lokāḥ tavāpi vakṭrāṇi samṛddhavegāḥ",
   "lelihyase grasamānaḥ samantāl- lokān samagrān vadanair jvaladbhiḥ, tejobhir āpūrya jagat samagraṃ bhāsas tavo'grāḥ pratapanti viṣṇo",
   "aakhyaahi me ko bhavaanugrahaarupo namo.astu te devavara praseeda vijnaatumicchaami bhavantamaadyam na hi prajaanaami tava pravrittima.",
-  "śrībhagavānuvāca, kālo'smi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ, ṛte'pi tvāṃ na bhaviṣyanti sarve ye'vasthitāḥ praty-anīkeṣu yodhāḥ"
-  ];
+  "śrībhagavānuvāca, kālo'smi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ, ṛte'pi tvāṃ na bhaviṣyanti sarve ye'vasthitāḥ praty-anīkeṣu yodhāḥ",
+  "Tasmāttvamuttishṭha yasho labhasva Jitvā śatrūn bhuńkṣva rājyam samṛddham Mayaivaitē nihatāḥ pūrvamēva Nimittamātram bhava savyasācin.",
+  "Dronam cha Bhishmam cha Jayadratham cha, Karnam tathanyanapi yodhaviran, Mayaa hataamstwam jahi ma vyathishthaa, Yudhyaswa jetasi rane sapatnaan.",
+  "Sanjaya uvacha, Etacchrutva vachanam keshavasya, Kritanjalirvepamaanah kiriti, Namaskritwa bhooya evaha krishnam, Sagadgadam bheetabheetah pranamya.",
+  "arjuna uvāca sthāne hṛṣīkeśa tava prakīrtyā jagat prahṛṣyatyanurajyate ca rakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddha-saṅghāḥ",
+  "kasmāt cha te na nameran mahātman garīyase brahmaṇo'py ādi-kartre ananta deveśa jagannivāsa tvam akṣaraṁ sad-asat tat paraṁ yat",
+  "tva-mādidevaḥ puruṣaḥ purāṇas tva-masya viśvasya paraṁ nidhānam vettāsi vedyaṁ ca paraṁ ca dhāma tvayā tataḿ viśvam anantarūpa",
+  "vāyu r yamo'gnir varuṇaḥ śaśāṅkaḥ prajāpati stvaṁ prapitāmahaśca, namo namaste'stu sahasrakṛtvaḥ punaśca bhūyo'pi namo namaste",
+  "namah purastād atha pṛṣṭha-tas te namo 'stu te sarvata eva sarva ananta-vīryāmita-vikrama-stvaḿ sarvaṁ samāpnoṣi tato 'si sarvaḥ",
+  "sakheti matvā prasabhaṁ yad uktaṁ he kṛṣṇa he yādava he sakheti ajānatā mahimānaṁ tavedaṁ mayā pramādāt praṇayena vāpi",
+  "yachchavahāsārtham asatkṛto'si vihāraśhayyāsana-bhojaneṣhu eko'thavāpyachyuta tatsamakṣhaṁ tatkṣhāmaye tvām aham aprameyam",
+  "Pitāsi lokasya carācasya tvamasya pūjyaśca gururgarīyān na tvatsamo'styabhyadhikaḥ kuto'nyo lokatraye'pyapratimaprabhāva",
+
+];
 
 
 List<String> chapter_ten_english = [
@@ -67,4 +79,15 @@ List<String> chapter_ten_english = [
   "You, who lick (devour) all the worlds, with your flaming mouths, you who fill the entire universe with your radiant energy, your terrible and bright rays burn forth, O Vishnu.",
   "Tell me who you are, O fierce form. Salutations to you, O supreme Lord. Have mercy on me. I desire to know you, the original Being. I do not understand your deeds.",
   "The Supreme Personality of Godhead said: Time I am, destroyer of the worlds, and I have come to engage all people. With the exception of you [the Pandavas], all the soldiers here on both sides will be slain.",
+  "Therefore, arise and obtain glory. Conquer your enemies and enjoy prosperous kingdom. They are already slain by me, you are only an instrument of the battle, O Arjuna, the skilled archer.",
+  "Therefore, strike down Drona, Bhishma, Jayadratha, Karna, and other brave warriors who are already slain by Me. Do not be disturbed by the illusion that you are the killer. Fight and you will conquer your enemies on the battlefield.",
+  "Sanjaya said, Hearing these words of Keshava, the crown-wearing Arjuna, with joined palms, trembling, offered obeisance again and again, with a choked voice, and in fear.",
+  "Arjuna said: O Hrishikesha, by praising You, the world rejoices and is filled with joy. All the directions, O Lord, fearfully run away, and the perfected ones bow down to You. ",
+  "Why should they not offer their reverence to you, O Great One, who are greater even than Brahman, the primal cause? O limitless One, God of gods, abode of the universe, you are the imperishable, the Absolute Truth, which is both being and non-being.",
+  "You are the primal God, the ancient being, the ultimate refuge of this universe. You are the knower, the knowable, and the supreme abode. By You, the universe is pervaded, O infinite form!",
+  "Salutations to Vayu, Yama, Agni, Varuna, Chandra (the moon), Prajapati (the creator), and to Pitamaha (the great-grandfather). Salutations to you a thousand times, and again and yet again, salutations to you.",
+  "Salutations to You in front and behind, O Supreme Being! Salutations to You on all sides, O All! O Infinite in Your power and prowess, You pervade all, and therefore You are everything.",
+  "Thinking of You as my friend, I have rashly addressed You 'O Krishna,' 'O Yadava,' 'O my friend,' not knowing Your glories. Please forgive whatever I may have done in madness or in love. I have dishonored You many times, jesting as we relaxed, lay on the same bed, or sat or ate together, sometimes alone and sometimes in front of many friends. O infallible one, please excuse me for all those offenses.",
+  "Whatever disrespect has been shown to You by me through ignorance, while playing, sitting, or eating, alone or in the presence of others, please forgive me for all that, O Achyuta, who is immeasurable.",
+  "You are the father of this universe, the mother, the supporter, and the grandsire. You are the object of worship, the supreme guru, and the greatest benefactor. No one is equal to You, nor can anyone be greater than You. In the three worlds, there is no one who can attain a position superior to Yours.",
 ];
