@@ -1114,6 +1114,7 @@ class _SholkaScreenState extends State<SholkaScreen> {
                               child: OutlinedButton(
                                 onPressed: () =>
                                 {
+                                  Navigator.push(context, PageTransition(type: PageTransitionType.fade, child: ShlokaDetailScreen(listIndex : i,chapter: 12)))
 
                                 },
                                 style: ButtonStyle(
