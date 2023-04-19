@@ -15,6 +15,14 @@ List<String> chapter_13_trans_sanskrit = [
   "Sarvatah pāṇipādam tat sarvato 'kṣiśiromukham sarvatah śrutimal lōkē sarvam āvṛtya tiṣṭhati",
   "sarvendriya-gunabhasam sarvendriya-vivarjitam asaktam sarvabhricchaiva nirgunam guna-bhoktr ca",
   "Bahirantashcha bhutānāmacharam charam eva cha Sūkshmatvāttadavigñeyam dūrasthaṁ chāntike cha tat",
+  "avibhaktam cha bhooteshu vibhaktamiva cha sthitam, bhoota-bhartr cha tajjneyam grasishnu prabhavishnu cha.",
+  "jyotishamapi tajjyotistamasah paramuchyate, gyanam jneyam gyanagamyam hridi sarvasya vishthitam.",
+  "iti kshetram tathaa gnanam jneyam choktam samaasatah, madbhakta etadvijnaaya madbhaavaayopapadyate.",
+  "prakritim purusham chaiva viddhyanadi ubhavapi, vikaranshcha gunanshchaiva viddhi prakritisambhavan.",
+  "karyakaranakartrutve hetuh prakritiruchyate, purushah sukhaduhkhanam bhoktrutve heturuchyate.",
+  "purushah prakritistho hi bhungkte prakritijan gunan, karannam gunasango'sya sadasyoni janmasu.",
+  " upadrashtaa anumantaa cha bhartaa bhoktaa maheshvarah paramaatmeti chaapyukto dehe'smin purushah parah",
+  "Ya evam vetti purusham prakritim cha gunaih saha Sarvatha vartamano'pi na sa bhuyo'bhijayate",
 ];
 
 
@@ -35,4 +43,12 @@ List<String> chapter_13_english = [
   "Everywhere are Its hands and feet, Its eyes, heads, and faces. Its ears are in all places, and it pervades everything in the universe.",
   "Appearing as the qualities of all the senses, yet devoid of all the senses, detached and all-pervading, without attributes and the enjoyer of attributes.",
   "The living beings, both moving and non-moving, are within and without, and they are also both subtle and gross. This truth is indeed difficult to understand, being both far away and very near.",
+  "Undivided in all beings, yet appearing as if divided. The sustainer of all beings should be known as the consumer and the originator as well.",
+  "Beyond the knowledge of astrology or any other form of knowledge, there exists a supreme knowledge that is beyond ignorance. This knowledge is seated in the hearts of all beings and is the object of knowledge, the knower, and the goal of knowledge itself.",
+  "Thus the field, knowledge, and the knowable have been briefly described with reference to their essential nature. My devotee, by understanding this, attains to My being and becomes one with Me.",
+  "Know nature and spirit to be without beginning. Understand that all modifications and qualities arise from nature.",
+  "Nature is said to be the cause of the agency and the effect of the action. While the soul is said to be the cause of experiencing pleasure and pain.",
+  "The individual soul, situated in nature, experiences the qualities born of nature. This is the cause of his birth in good and evil wombs.",
+  "The witness, the permitter, the supporter, the enjoyer, and the great Lord Maheshvara, also called the Supreme Self - this higher self is said to reside within the body.",
+  "One who understands the nature of the individual self and the material nature along with its modes, even while engaged in every kind of activity, does not take birth again in this material world.",
 ];
