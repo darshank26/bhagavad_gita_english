@@ -29171,11 +29171,10 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
         ),
       );
     }
-
     else if(widget.chapter == 13)
     {
       return DefaultTabController(
-        length: 20,
+        length: 35,
         initialIndex: listIndex,
         child: Scaffold(
           backgroundColor: kdetailbackground,
@@ -29948,7 +29947,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[11],
+                                          chapter_13_trans_sanskrit[11],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -29961,7 +29960,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[11],
+                                          chapter_13_english[11],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30003,7 +30002,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[12],
+                                          chapter_13_trans_sanskrit[12],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30016,7 +30015,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[12],
+                                          chapter_13_english[12],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30058,7 +30057,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[13],
+                                          chapter_13_trans_sanskrit[13],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30071,7 +30070,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[13],
+                                          chapter_13_english[13],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30113,7 +30112,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[14],
+                                          chapter_13_trans_sanskrit[14],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30126,7 +30125,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[14],
+                                          chapter_13_english[14],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30168,7 +30167,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[15],
+                                          chapter_13_trans_sanskrit[15],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30181,7 +30180,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[15],
+                                          chapter_13_english[15],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30223,7 +30222,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[16],
+                                          chapter_13_trans_sanskrit[16],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30236,7 +30235,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[16],
+                                          chapter_13_english[16],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30278,7 +30277,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[17],
+                                          chapter_13_trans_sanskrit[17],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30291,7 +30290,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[17],
+                                          chapter_13_english[17],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30333,7 +30332,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[18],
+                                          chapter_13_trans_sanskrit[18],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30346,7 +30345,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[18],
+                                          chapter_13_english[18],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30388,7 +30387,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                     children: [
                                       Container(
                                         child: Text(
-                                          chapter_12_trans_sanskrit[19],
+                                          chapter_13_trans_sanskrit[19],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30401,7 +30400,7 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
                                       Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
                                       Container(
                                         child: Text(
-                                          chapter_12_english[19],
+                                          chapter_13_english[19],
                                           style: GoogleFonts.poppins(
                                             letterSpacing: 1,
                                             fontSize: 18,
@@ -30423,6 +30422,842 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
                       ),
                     ),
+                    
+                    // 21 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[20],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[20],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+                    
+                    // 22 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[21],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[21],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+                       // 23 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[22],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[22],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+                    // 24 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[23],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[23],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      )),
+
+
+                      // 25 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[24],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[24],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      )),
+
+
+                        // 26 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[25],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[25],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+                           // 27 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[26],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[26],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      )),
+
+                        // 28 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[27],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[27],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                                    ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+                    // 29 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[28],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[28],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+              // 30 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[29],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[29],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ), // 31 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[30],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[30],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ) ,
+                        // 32 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[31],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[31],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      )),
+
+                                            // 33 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[32],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[32],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+                    // 34 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[33],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[33],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+                    // 35 tab bar view widget
+                    Container(
+                      margin: const EdgeInsets.only(left: 20.0, right: 20.0),
+                      child: Stack(
+                        children: [
+                          SizedBox(
+                              width: double.infinity,
+                              height: double.infinity,
+                              child: Image.asset("assets/images/image.png",width: double.infinity,fit: BoxFit.fill,)),
+                          Container(
+                            padding: const EdgeInsets.all(40),
+                            child: SingleChildScrollView(
+                              child: Padding(
+                                padding: const EdgeInsets.only(top:40),
+                                child: Align(
+                                  alignment: Alignment.center,
+                                  child: Column(
+                                    children: [
+                                      Container(
+                                        child: Text(
+                                          chapter_13_trans_sanskrit[34],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+                                      Center(child: Image.asset("assets/images/bottom.png",height: 45,width: 400.0)),
+                                      Container(
+                                        child: Text(
+                                          chapter_13_english[34],
+                                          style: GoogleFonts.poppins(
+                                            letterSpacing: 1,
+                                            fontSize: 18,
+                                            height: 2,
+                                            fontWeight: FontWeight.w700,
+                                            color: kprimarycolor,
+                                          ),
+                                          textAlign: TextAlign.center,),
+                                      ),
+
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
+                        ],
+
+                      ),
+                    ),
+
+
+
 
                   ],
                 ),
