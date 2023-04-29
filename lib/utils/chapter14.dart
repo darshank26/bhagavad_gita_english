@@ -15,7 +15,17 @@ List<String> chapter_14_trans_sanskrit = [
   "Yada sattve pravriddhe tu pralayam yati dehabhrit, tadottamavidaam lokan amalan pratipadyate.",
   "Rajasi pralayam gatva karmānāmashayam jagat Tathāpralīna-tamasi mūḍha-yoniṣhu jāyate",
   "karmaṇaḥ su-kṛtasyāhuḥ sāttvikam nir-malaṁ phalam rajasas tu phalaṁ duḥkham ajñānaṁ tamasaḥ phalam",
-
+  "sattvāt sañjāyate jñānaṃ rajasō lobha eva cha pramāda-mōhau tamasō bhavatō'jñānam eva cha",
+  "Urdhvam gacchanti sattva-sthā madhye tiṣṭhanti rājasāḥ Jaghanya-guṇa-vṛtti-sthā adho gacchanti tāmasāḥ",
+  "Nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣṭānupaśyati Guṇebhyaśca paraṁ vetti madbhāvaṁ so'dhigacchati",
+  "gunān etān atītya trīn dehī deha-samudbhavān janma-mṛtyu-jarā-duḥkhair vimukto 'mṛtam aśnute",
+  "Arjuna uvāca: Kair liṅgais trīn guṇān etā natiīto bhavati prabho Kim ācāraḥ kathaṁ caitāṁs trīn guṇān ativar tate?",
+  "Shri Bhagavaanuvaacha: Prakaasham cha pravrittim cha mohameva cha Paandava Na dweshti samparvrittaani na nivrittaani kaangkshati.",
+  "udāsīna-vad āsīno guṇair yo na vicālyate guṇā vartanta ity evaṁ yo 'vatishṭhati neṅgate",
+  "sama-duhkha-sukhah svasthah sama-lostasma-kancanah tulya-priyapriyo dhiras tulya-nindatma-samstutih",
+  "mānāpamānayo stulyas tulyo mitrāripakṣayoḥ, sarvārambhaparityāgī guṇātītaḥ sa uchyate",
+  "māṁ ca yo 'vyabhicāreṇa bhakti-yogena sevate sa guṇān samatītyaitān brahma-bhūyāya kalpate",
+  "brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya cha śāśvatasya cha dharmasya sukhasyaikāntikasya cha",
 ];
 
 
@@ -36,4 +46,15 @@ List<String> chapter_14_english = [
   "When the embodied being passes beyond the three modes of material nature (goodness, passion, and ignorance) which are the source of the body, he attains to the pure transcendental knowledge and reaches the stage of supreme peace, in which the soul attains everlasting happiness.",
   "When one perishes in Rajas, the cause of activity, the world of the active is born; in the same way, when one perishes in Tamas, the deluded darkness is born in the world.",
   "They say that the fruit of good action is pure and consists of sattva, while the fruit of action born of rajas is pain and the fruit of action born of tamas is ignorance.",
+  "From purity arises knowledge, from passion arises greed, from negligence and delusion arises darkness (ignorance).",
+  "Those situated in the mode of goodness gradually go upward to the higher planets; those in the mode of passion live on the earthly planets; and those in the mode of ignorance go down to the hellish worlds.",
+  "When the seer beholds no agent other than the Gunas [qualities], and knows That which is higher than the Gunas, he attains to My Being.",
+  "Having transcended these three modes of material nature, the embodied being who has been freed from birth, death, and old age, attains the nectar of immortality.",
+  "Arjuna said, \"O Lord, by what signs is one who has transcended these three modes known? What is their conduct and how do they transcend these three modes?\"",
+  "O Arjuna, he who remains undisturbed in all circumstances, and is neither excited by sense pleasures nor gets perturbed by difficulties, he is eligible for attaining eternal knowledge.",
+  "One who remains uninvolved and neutral, unaffected by the qualities (gunas), and knows that the qualities alone are interacting with each other, stays steady and does not falter.",
+  "He who is equipoised in happiness and distress, and is established in the self, who is the same in pleasure and pain, and who looks upon a clod, a stone and gold as of equal value, who is equal towards a dear and an enemy, and who is equipoised in honour and dishonour, is said to be in the mode of goodness.",
+  "One who is equal in honor and dishonor, equipoised toward friend and foe, and renounces all fruitive activities, such a person is said to have transcended the modes of material nature.",
+  "And he who serves Me with unswerving devotion, surpassing the three modes of material nature, and is thus free from their influence, becomes fit to attain union with the Absolute",
+  "For I am the foundation of Brahman, the immortal and imperishable, of eternal dharma and of absolute bliss.",
   ];
