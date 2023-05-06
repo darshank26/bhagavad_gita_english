@@ -1,8 +1,37 @@
-List<String> chapter_15_trans_sanskrit = [
-
+List<String> chapter_16_trans_sanskrit = [
+  "śrībhagavānuvāca, abhayaṃ sattvasaṃśuddhir-jñānayogavyavasthitiḥ, dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ",
+  "ahimsā satyam akrodhas tyāgaḥ śāntir apaiśunam dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam",
+  "tejah kṣamā dhṛtiḥ śaucamadroho nātimānitā, bhavanti sampadaṃ daivīmabhi-jātasya bhārata",
+  "dambho darpo 'bhimaanashcha krodhah paarushyameva cha, ajnaanam chaabhijaatasya paartha sampadam aasureem",
+  "daivī sampad vimokṣāya nibandhāyāsurī matā, mā śucaḥ sampadaṃ daivīm abhijāto'si pāṇḍava",
+  "dvau bhūta-sargau loke'smin daiva āsura eva ca daivo vistaraśaḥ prokta āsuraṁ pārtha me śṛṇu",
+  "Pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ Na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate",
+  "asatyam apratiṣṭhaṁ te jagad āhur anīśvaram aparaspara-sambhūtaṁ kim anyat kāma-haitukam",
+  "etāṁ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ prabhavanty ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ",
+  "kāmam āśritya duṣpūraṁ dambham ānamadānvitāḥ mohād gṛhītvāsadgrāhān pravartante 'śucivrataḥ",
+  "chintām-aparimeyāṃ cha pralayāntām-upāśritāḥ, kāmopabhoga-paramā etāvad-iti niśchitāḥ",
+  "āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ īhante kāma-bhogārtham anyāyenārtha-saṃcayān",
+  "idam adya mayā labdham imaṁ prāpsyē manōratham idam astīdam api mē bhaviṣyati punar dhanam",
+  "Asau maya hatah shatrur hanishye cha parananapi, Ishvaro'ham aham bhogi siddho'ham balavan sukhi",
+  "āḍhyo 'bhijanavān asmi ko 'nyo 'sti sadṛśo mayā yakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ",
+  "aneka-chitta-vibhrāntā moha-jāla-samāvṛtāḥ prasaktāḥ kāma-bhogeṣu patanti narake'shuchau",
   ];
 
-List<String> chapter_15_english = [
-
-
-  ];
+List<String> chapter_16_english = [
+"Sri Bhagavan said, 'Fearlessness, purity of heart, steadfastness in Yoga of knowledge, charity, control of senses, performance of sacrifice, study of scriptures, austerity, and straightforwardness are called the natural virtues of human beings.'",
+  "Non-violence, truthfulness, non-anger, renunciation, peace, absence of malice, compassion, absence of greed, gentleness, modesty, and lack of fickleness are the ethical values of the world.",
+  "Radiance, forgiveness, steadiness, cleanliness, lack of animosity, absence of self-importance-these constitute divine wealth, O Arjuna!",
+  "Arrogance, vanity, and pride, anger, harshness, and ignorance - these qualities belong to those of demoniac nature, O Partha.",
+  "The divine qualities lead to liberation, while the demoniac qualities result in bondage. Do not worry, O Pandava, for you were born with divine qualities.",
+  "There are two types of beings in this world, the divine and the demonic. The divine has been described in detail, O Arjuna; now hear from me about the demonic.",
+  "Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them.",
+  "They say that the world is unreal, without basis, without a God, and without any moral laws. It is created by mutual union, brought about by lust.",
+  "Having embraced this view, those of small intelligence who are lost to themselves engage in unbeneficial, horrible actions that destroy the world.",
+  "Taking refuge in insatiable desires, full of hypocrisy, pride, and arrogance, holding false views through delusion, they act with impure vows.",
+  "Those who are attached to unlimited anxieties and who are prey to the destruction of the world, worship the sense gratification of lusty desires and become unclean-minded, such individuals have firmly decided that this is the ultimate goal of life.",
+  "The desires of those who are full of desires and are dedicated to gratifying their senses are endless and they strive to amass wealth by unjust means for their enjoyment. They are bound by hundreds of thousands of desires and are slaves to their passions of lust and anger. They indulge in sense pleasures excessively and are devoid of discrimination and good conduct.",
+  "This that has been acquired by me today, I shall attain my desire. If there is no gain, this will remain with me in the future as well.",
+  "I have killed this enemy, and I will kill others also. I am the Lord, the enjoyer, happy and perfect, and powerful.",
+"I am mighty and wealthy, and I have influential friends; who else is equal to me? I will perform sacrifices and give gifts, and thus rejoice.' In this way, those deluded by ignorance are confused'",
+  "Confused by various thoughts, trapped in a maze of delusion, and addicted to the gratification of desires, they fall into a foul hell.",
+];
