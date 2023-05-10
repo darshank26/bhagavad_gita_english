@@ -7,6 +7,14 @@ List<String> chapter_18_trans_sanskrit = [
   "etānyapi tu karmāṇi saṅgaṁ tyaktvā phalāni cha kartavyānīti me pārtha niśchitaṁ matam uttamam",
   "niyatasya tu sannyāsaḥ karmaṇo nopapadyate mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ",
   "duḥkham ityeva yat karma kāya-kleśa-bhayāt tyajet sa kṛtvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet",
+  "Kāryamityeva yatkarma niyataṁ kriyate 'rjuna Saṅgaṁ tyaktvā phalaṁ caiva sa tyāgaḥ sāttviko mataḥ",
+  "Na dveṣṭyakushalaṁ karma kushale nānuṣajjate Tyāgī sattvasamāviṣṭo medhāvī chinnasaṁśayaḥ",
+  "Na hi dehabhṛtā śakyaṁ tyaktuṁ karmāṇy-aśeṣataḥ Yas tu karmaphala-tyāgī sa tyāgītyabhidhīyate",
+  "Aniṣṭam-iṣṭaṁ miśraṁ cha trividhaṁ karmaṇaḥ phalam Bhavaty-atyāgināṁ pretya na tu sannyāsināṁ kvachit",
+  "Pañcaitāni mahābāho kāraṇāni nibodha me Sāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām",
+  "Adhiṣṭhānaṁ tathā kartā karaṇaṁ cha pṛthagvidham Vividhāśhcha pṛthak cheṣhṭā daivaṁ chaivātra pañcha",
+  "śarīravāṅmanobhiryat karma prārabhate naraḥ nyāyyaṁ vā viparītaṁ vā pañcaite tasya hetavaḥ",
+  "tatraivaṁ sati kartāramātmānaṁ kevalaṁ tu yaḥ paśyatyakṛtabuddhitvānna sa paśyati durmatiḥ",
   ];
 
 List<String> chapter_18_english = [
@@ -18,4 +26,12 @@ List<String> chapter_18_english = [
   "Furthermore, O Arjuna, it is my supreme and conclusive opinion that all actions should be performed without attachment to the results. This is my final and best instruction to you.",
   "However, giving up actions completely out of delusion is not appropriate for one who is seeking perfection. Such renunciation is said to be in the mode of ignorance."
   "One should give up actions that are motivated by pain alone, and also those that cause physical strain and fear. Renunciation performed in this way is said to be in the mode of passion and is not productive of any real benefit.",
+  "O Arjuna, that action which is performed with a sense of duty, without attachment to the results, is considered a sattvic (pure) form of renunciation.",
+  "One who does not hate unpleasant work, nor is attached to enjoyable work, such a person is a renunciant (tyāgī), a person of steady intellect (medhāvī), and free from doubts (chinnasaṁśayaḥ), being situated in the mode of goodness (sattva).",
+  "Indeed, it is not possible for one embodied to completely renounce all actions. But those who renounce the fruits of their actions, they are called true renunciants.",
+  "The results of actions are of three kinds - unpleasant, pleasant, and mixed. But for those who have renounced, after death, there is no bondage to the results of actions, nor for the renunciants at any time.",
+  "O mighty-armed Arjuna, understand from Me these five factors that are the cause of all actions, as described in the Sāṅkhya philosophy at the end of their analysis, for the attainment of perfection in all endeavors.",
+  "The body, the doer, the various senses, the different activities, and the fifth factor, the divine influence—these are the five factors of action.",
+  "By the body, speech, and mind, whatever action a person initiates, these five factors are its causes—either in accordance with righteousness or contrary to it.",
+  "But the ignorant person, with an untrained mind, fails to perceive the true nature of the self as the sole doer, even though it is so.",
   ];
