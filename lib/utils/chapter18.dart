@@ -23,6 +23,14 @@ List<String> chapter_18_trans_sanskrit = [
   "yattu kṛtsnavadekasminkārye saktamahaitukam atattvārthavadalpaṁ cha tattāmasamudāhṛtam",
   "niyataṁ saṅgarahitam-arāgadveṣataḥ kṛtam aphalaprepsunā karma yattat sāttvikamucyate",
   "yattu kāmepsunā karma sāhaṅkāreṇa vā punaḥ kriyate bahulāyāsaṁ tad rājasamudāhṛtam",
+  "anubandhaṁ kṣayaṁ hiṁsāmanapekṣya cha pauruṣam mohād ārabhyate karma yattat tāmasamucyate",
+  "muktasaṅgo'nahaṁvādī dhṛtyutsāhasamanvitaḥ siddhyasiddhyor nirvikāraḥ kartā sāttvika uchyate",
+  "rāgī karmaphalaprepsur lubdho hiṁsātmako 'śuciḥ harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ",
+  "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ viṣādī dīrghasūtrī cha kartā tāmasa uchyate",
+  "buddher bhedaṁ dhṛteśh chaiva guṇatas trividhaṁ śṛṇu prochyamānam aśeṣeṇa pṛthaktvena dhanañjaya",
+  "pravṛttiṁ cha nivṛttiṁ cha kāryākārye bhayābhaye bandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī",
+  "yayā dharmam adharmam cha kāryam chākāryam eva cha ayathāvad prajānāti buddhiḥ sā pārtha rājasī",
+  "adharmaṁ dharmam iti yā manyate tamasāvṛtā sarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī",
   ];
 
 List<String> chapter_18_english = [
@@ -50,4 +58,12 @@ List<String> chapter_18_english = [
   "But that which attaches one to a specific action as if it were the entirety, without considering the cause and effect, without considering the truth, and with little understanding—know that to be in the mode of ignorance (tāmasa).",
   "That action which is performed without attachment, without aversion, and without craving for rewards, and which is performed with proper understanding and determination, is declared to be in the mode of goodness (sattvic).",
   "But that action which is performed with selfish desires and egoistic intentions, and with excessive efforts and exertion, is declared to be in the mode of passion (rājasic).",
+  "But that action which is undertaken with delusion, disregarding the consequences, without considering the loss, injury, and one's own capability, is declared to be in the mode of ignorance (tāmasa).",
+  "The performer who is free from attachment, non-egotistical, firm, enthusiastic, unaffected by success or failure, is declared to be in the mode of goodness (sattvic).",
+  "The performer who is attached, desirous of rewards, greedy, engaging in harmful actions, impure, filled with joy and sorrow, is declared to be in the mode of passion (rājasic).",
+  "The performer who is devoid of intelligence, unrefined, stubborn, deceitful, lazy, disheartened, and procrastinating, is declared to be in the mode of ignorance (tāmasa).",
+  "O Arjuna, listen to the threefold division of intellect, determination, and the modes of nature, as explained in detail and separately.",
+  "That understanding which knows what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, what results in bondage and what leads to liberation, that understanding is considered to be in the mode of goodness (sattvic), O Partha.",
+  "That understanding by which one perceives right and wrong, what should be done and what should not be done, improperly and without proper knowledge, that understanding is considered to be in the mode of passion (rājasic), O Partha.",
+  "That understanding which considers unrighteousness as righteousness and sees everything upside down, that understanding is considered to be in the mode of ignorance (tāmasa), O Partha.",
 ];
