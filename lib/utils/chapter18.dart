@@ -39,6 +39,14 @@ List<String> chapter_18_trans_sanskrit = [
   "viṣayendriya saṁyogād yattadagre'mṛtopamam pariṇāme viṣhamiva tatsukhaṁ rājasaṁ smṛtam",
   "yadagre chānubandhe cha sukhaṁ mohanamātmanaḥ nidrālasyapramādotthaṁ tattāmasamudāhṛtam",
   "Na tadasti pṛthivyāṁ vā divi deveṣhu vā punaḥ, Sattvaṁ prakṛtijairmuktaṁ yadebhiḥ syāttribhirguṇaiḥ.",
+  "Brāhmaṇakṣhatriyaviśhāṁ śhūdrāṇāṁ cha parantapa, Karmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ.",
+  "Shamaḥ damas tapaḥ śaucaṁ kṣāntir ārjavam eva cha, Jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāvajam",
+  "Shauryaṁ tejo dhṛitiḥ dākṣyaṁ yuddhe chāpyapalāyanam, Dānam īśvara-bhāvaścha kṣhātraṁ karma svabhāvajam",
+  "kṛṣi-gaurakṣya-vāṇijyaṁ vaiśya-karma svabhāvajam, paricaryātmakaṁ karma śūdrasyāpi svabhāvajam",
+  "sve sve karmaṇyabhirataḥ saṁsiddhiṁ labhate naraḥ, svakarmanirataḥ siddhiṁ yathā vindati tacchṛṇu",
+  "Yatah pravrittir bhutānām yena sarvam idam tatam, Svakarmaṇā tamabhyarchya siddhiṁ vindati mānavah.",
+  "śreyān svadharmo viguṇaḥ paradharmāt svanuṣṭhitāt, svabhāvaniyataṁ karma kurvannāpnoti kilbiṣam",
+  "sahajaṁ karma kaunteya sad oṣhamapi na tyajet, sarvārambhā hi doṣheṇa dhūmenāgnirivāvṛtāḥ",
   ];
 
 List<String> chapter_18_english = [
@@ -82,4 +90,12 @@ List<String> chapter_18_english = [
   "That happiness which arises from the contact of the senses with their objects, which appears like nectar at first but turns into poison in the end, that happiness is considered to be in the mode of passion (rājasic).",
   "That happiness which deludes the self in the beginning and in the sequel, which arises from sleep, indolence, and negligence, that happiness is considered to be in the mode of ignorance (tāmasic).",
   "That which does not exist on the earth, in the celestial abode, or among the gods, and which is beyond the three modes of material nature (sattva, rajas, tamas), that pure consciousness which is free from the material modes of nature is not present.",
+  "O Parantapa, the actions of Brahmins, Kshatriyas, Vaishyas, and Shudras are divided according to the qualities born of their own nature.",
+  "Peacefulness, self-control, austerity, purity, tolerance, honesty, knowledge, wisdom, and religiousness—these are the natural qualities of actions arising from one's own nature.",
+  "Valor, power, determination, skill in battle, and the ability to retreat are the qualities of the Kshatriya born of their inherent nature. Generosity and leadership are also their natural duties.",
+  "Agriculture, cattle rearing, and trade are the natural occupations of the Vaisyas born of their inherent nature. Service-oriented work is the natural duty of the Shudras as well.",
+  "A person attains perfection by being engaged in their prescribed duties. Hear from me how one who is dedicated to their own duty achieves perfection.",
+  "By whom all this universe is pervaded through their manifestation, from whom all beings are born, by performing their prescribed duties with devotion, humans attain perfection.",
+  "One's own duty performed imperfectly is better than the duty of another well-performed. By performing actions according to one's nature, one does not incur sin.",
+  "O Kaunteya (Arjuna), one should not give up their natural duties, even if they are imperfect. All undertakings are covered with some fault, just as fire is covered by smoke.",
 ];
