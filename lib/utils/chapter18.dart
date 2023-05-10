@@ -31,6 +31,14 @@ List<String> chapter_18_trans_sanskrit = [
   "pravṛttiṁ cha nivṛttiṁ cha kāryākārye bhayābhaye bandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī",
   "yayā dharmam adharmam cha kāryam chākāryam eva cha ayathāvad prajānāti buddhiḥ sā pārtha rājasī",
   "adharmaṁ dharmam iti yā manyate tamasāvṛtā sarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī",
+  "dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ yogenāvyabhichāriṇyā dhṛtiḥ sā pārtha sāttvikī",
+  "yayā tu dharmakāmārthān dhṛtyā dhārayate 'rjuna prasangen phalākāṅkṣhī dhṛtiḥ sā pārtha rājasī",
+  "yayā svapnaṁ bhayaṁ śokaṁ viṣādaṁ madameva cha na vimuñchati durmedhā dhṛtiḥ sā pārtha tāmasī",
+  "sukhaṁ tvidānīṁ trividhaṁ śhṛiṇu me bharatarṣhabha abhyāsādramaṭe yatra duḥkhāntaṁ cha nigachchhati",
+  "yattadagre viṣhamiva pariṇāme'mṛtopamam tatsukhaṁ sāttvikaṁ proktamātmabuddhiprasādajam",
+  "viṣayendriya saṁyogād yattadagre'mṛtopamam pariṇāme viṣhamiva tatsukhaṁ rājasaṁ smṛtam",
+  "yadagre chānubandhe cha sukhaṁ mohanamātmanaḥ nidrālasyapramādotthaṁ tattāmasamudāhṛtam",
+  "Na tadasti pṛthivyāṁ vā divi deveṣhu vā punaḥ, Sattvaṁ prakṛtijairmuktaṁ yadebhiḥ syāttribhirguṇaiḥ.",
   ];
 
 List<String> chapter_18_english = [
@@ -66,4 +74,12 @@ List<String> chapter_18_english = [
   "That understanding which knows what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, what results in bondage and what leads to liberation, that understanding is considered to be in the mode of goodness (sattvic), O Partha.",
   "That understanding by which one perceives right and wrong, what should be done and what should not be done, improperly and without proper knowledge, that understanding is considered to be in the mode of passion (rājasic), O Partha.",
   "That understanding which considers unrighteousness as righteousness and sees everything upside down, that understanding is considered to be in the mode of ignorance (tāmasa), O Partha.",
+  "That firmness by which the mind, vital energy, and senses are controlled, and which is unwavering in the practice of yoga, that firmness is considered to be in the mode of goodness (sattvic), O Partha.",
+  "But that determination by which one holds onto duty, desire, and wealth with attachment, O Arjuna, seeking rewards, that determination is considered to be in the mode of passion (rājasic).",
+  "But that determination by which one holds onto delusion, fear, sorrow, and despair, and indulges in intoxication, O Partha, that determination is considered to be in the mode of ignorance (tāmasic).",
+  "Now, O best of the Bharatas, hear from me about the three types of happiness. By which one attains the end of sorrow, that happiness born of practice.",
+  "That which appears like poison at first but tastes like nectar in the end, that happiness is considered to be in the mode of goodness (sāttvic). It arises from the purity of one's intellect and brings clarity and tranquility to the self.",
+  "That happiness which arises from the contact of the senses with their objects, which appears like nectar at first but turns into poison in the end, that happiness is considered to be in the mode of passion (rājasic).",
+  "That happiness which deludes the self in the beginning and in the sequel, which arises from sleep, indolence, and negligence, that happiness is considered to be in the mode of ignorance (tāmasic).",
+  "That which does not exist on the earth, in the celestial abode, or among the gods, and which is beyond the three modes of material nature (sattva, rajas, tamas), that pure consciousness which is free from the material modes of nature is not present.",
 ];
