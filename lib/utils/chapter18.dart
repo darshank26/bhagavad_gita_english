@@ -47,6 +47,14 @@ List<String> chapter_18_trans_sanskrit = [
   "Yatah pravrittir bhutānām yena sarvam idam tatam, Svakarmaṇā tamabhyarchya siddhiṁ vindati mānavah.",
   "śreyān svadharmo viguṇaḥ paradharmāt svanuṣṭhitāt, svabhāvaniyataṁ karma kurvannāpnoti kilbiṣam",
   "sahajaṁ karma kaunteya sad oṣhamapi na tyajet, sarvārambhā hi doṣheṇa dhūmenāgnirivāvṛtāḥ",
+  "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ, naiṣkarmyasiddhiṁ paramāṁ saṁnyāsenādhigacchati",
+  "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me, samāsenaiva kaunteya niṣṭhā jñānasya yā parā",
+  "buddhyā viśuddhayā yukto dhṛtyātmānaṁ niyamya cha, śabdādīnviṣayānstyaktvā rāgadveṣau vyudasya cha",
+  "vivikta-sevī laghvāśī yata-vāk-kāya-mānasaḥ, dhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśritaḥ",
+  "ahaṅkāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham vimucya nirmamaḥ śānto brahmabhūyāya kalpate ",
+  "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati, samaḥ sarveṣu bhūteṣu madbhaktiṁ labhate parām",
+  "bhaktyā mām abhijānāti yāvānyaśhchāsmi tattvataḥ, tato māṁ tattvato jñātvā viśhate tadantaram",
+  "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ, matprasādādavāpnoti śāśvataṁ padamavyayam",
   ];
 
 List<String> chapter_18_english = [
@@ -98,4 +106,12 @@ List<String> chapter_18_english = [
   "By whom all this universe is pervaded through their manifestation, from whom all beings are born, by performing their prescribed duties with devotion, humans attain perfection.",
   "One's own duty performed imperfectly is better than the duty of another well-performed. By performing actions according to one's nature, one does not incur sin.",
   "O Kaunteya (Arjuna), one should not give up their natural duties, even if they are imperfect. All undertakings are covered with some fault, just as fire is covered by smoke.",
+  "One who has a detached intellect, self-controlled, and free from desires attains the supreme perfection of renunciation by renouncing the fruits of their actions.",
+  "Just as one attains perfection, one realizes the Supreme Brahman. O Kaunteya (Arjuna), now hear from me about that ultimate state of knowledge, which is attained through unwavering devotion.",
+  "With a purified intellect, one should engage in self-control, restraining the mind and senses. Giving up attachment and aversion towards objects such as sound, one should cast aside likes and dislikes.",
+  "One who seeks solitude, eats in moderation, controls their speech, body, and mind, who is devoted to the practice of meditation, and who embraces detachment consistently, attains true renunciation.",
+  "By letting go of ego, power, arrogance, desire, anger, and possessiveness, one becomes free from attachments, peaceful, and attains the state of being merged with Brahman (the ultimate reality).",
+  "Being established in Brahman, with a joyful and serene mind, one neither grieves nor desires. Being equipoised towards all beings, one attains the highest devotion to Me (the Supreme).",
+  "By devotion, one truly knows Me in essence, who I am and what I am. Having thus known Me in truth, one immediately enters into Me.",
+  "Engaging in all actions, yet always taking refuge in Me, one attains eternal and imperishable abode through My grace.",
 ];
