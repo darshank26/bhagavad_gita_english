@@ -15,6 +15,14 @@ List<String> chapter_18_trans_sanskrit = [
   "Adhiṣṭhānaṁ tathā kartā karaṇaṁ cha pṛthagvidham Vividhāśhcha pṛthak cheṣhṭā daivaṁ chaivātra pañcha",
   "śarīravāṅmanobhiryat karma prārabhate naraḥ nyāyyaṁ vā viparītaṁ vā pañcaite tasya hetavaḥ",
   "tatraivaṁ sati kartāramātmānaṁ kevalaṁ tu yaḥ paśyatyakṛtabuddhitvānna sa paśyati durmatiḥ",
+  "yasya nāhaṅkṛto bhāvo buddhir-yasya na lipyate hatvā'pi sa imāṁllokānna hanti na nibadhyate",
+  "jñānaṁ jñeyaṁ parijñātā trividhā karmachodanā karaṇaṁ karma karteti trividhaḥ karmasaṅgrahaḥ",
+  "jñānaṁ karma cha kartā cha tridhaiva guṇabhedataḥ prochyate guṇasaṅkhyāne yathāvachchhṛṇu tānyapi",
+  "sarvabhūteṣu yenaikaṁ bhāvamavyayamīkṣate avibhaktaṁ vibhakteṣu tajjñānaṁ viddhi sāttvikam",
+  "pṛthaktvena tu yajjñānaṁ nānābhāvān pṛthagvidhān vetti sarveṣu bhūteṣu tajjñānaṁ viddhi rājasam",
+  "yattu kṛtsnavadekasminkārye saktamahaitukam atattvārthavadalpaṁ cha tattāmasamudāhṛtam",
+  "niyataṁ saṅgarahitam-arāgadveṣataḥ kṛtam aphalaprepsunā karma yattat sāttvikamucyate",
+  "yattu kāmepsunā karma sāhaṅkāreṇa vā punaḥ kriyate bahulāyāsaṁ tad rājasamudāhṛtam",
   ];
 
 List<String> chapter_18_english = [
@@ -34,4 +42,12 @@ List<String> chapter_18_english = [
   "The body, the doer, the various senses, the different activities, and the fifth factor, the divine influence—these are the five factors of action.",
   "By the body, speech, and mind, whatever action a person initiates, these five factors are its causes—either in accordance with righteousness or contrary to it.",
   "But the ignorant person, with an untrained mind, fails to perceive the true nature of the self as the sole doer, even though it is so.",
-  ];
+  "One who has no sense of ego, whose intellect is not tainted, even though engaged in killing, such a person neither kills nor is bound by the action of killing in this world.",
+  "Knowledge, the object of knowledge, and the knower are the three factors that motivate action. The instruments of action, the action itself, and the doer are the three constituents of action.",
+  "Knowledge, action, and the doer are indeed of three types, according to the distinctions of the modes of material nature. Hear about them as they are described according to the divisions of the modes of nature.",
+  "Understand that knowledge to be in the mode of goodness (sattvic) by which one sees the undivided, imperishable reality in all beings, even amidst their diverse manifestations.",
+  "Know that knowledge to be in the mode of passion (rājasic) by which one sees various existences as separate and distinct. Such knowledge perceives individuality in all beings.",
+  "But that which attaches one to a specific action as if it were the entirety, without considering the cause and effect, without considering the truth, and with little understanding—know that to be in the mode of ignorance (tāmasa).",
+  "That action which is performed without attachment, without aversion, and without craving for rewards, and which is performed with proper understanding and determination, is declared to be in the mode of goodness (sattvic).",
+  "But that action which is performed with selfish desires and egoistic intentions, and with excessive efforts and exertion, is declared to be in the mode of passion (rājasic).",
+];
