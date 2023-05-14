@@ -47,28 +47,6 @@ class _HomeScreenState extends State<HomeScreen> {
     "Moksha \nSannyasa Yoga",
   ];
 
-  List<String> aarthilistEnglish =
-  ["|| Lord Sri Ganesha ||",
-    "|| Lord Vishnu ||",
-    "|| Lord Shiva ||",
-    "|| Lord Sri Rama ||",
-    "|| Lord Sri Krishna ||",
-    "|| Lord Hanuman ||",
-    "|| Lord Narasimha ||" ,
-    "|| Lord Venkateswara ||",
-    "|| Lord Kubera ||",
-    "|| Lord Shani ||",
-    "|| Lord Satya Narayan ||",
-    "|| Lord Surya ||",
-    "|| Lord Chandra ||",
-    "|| Lord Aiyappa ||",
-    "|| Lord Subrahmanya ||",
-    "|| Lord Sastha ||",
-    "|| Goddess Lakshmi ||",
-    "|| Goddess Durga ||",
-
-  ];
-
 
   Future<void>? _launched;
 
@@ -175,7 +153,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ListView.builder(
                 physics: const NeverScrollableScrollPhysics(),
                 shrinkWrap: true,
-                itemCount: aarthilistEnglish.length,
+                itemCount: gita_chapter.length,
                 itemBuilder: (context, i) {
                   return ListTile(
                     title: Padding(

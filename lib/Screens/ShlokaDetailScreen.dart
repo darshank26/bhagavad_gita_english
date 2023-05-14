@@ -2871,9 +2871,20 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
               ],
             ),
-
+            bottomNavigationBar: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                if (_isBannerAdReady)
+                  Container(
+                    width: _bannerAd.size.width.toDouble(),
+                    height: _bannerAd.size.height.toDouble(),
+                    child: AdWidget(ad: _bannerAd),
+                  ),
+              ],
+            ),
 
           ),
+
         );
       }
     else if(widget.chapter == 2)
@@ -7107,6 +7118,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -9662,6 +9684,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -12160,6 +12193,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -13901,6 +13945,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -16690,6 +16745,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -18490,6 +18556,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -20175,6 +20252,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -22206,6 +22294,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -24701,6 +24800,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -27951,6 +28061,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -29169,6 +29290,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -31272,6 +31404,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -32906,6 +33049,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
@@ -34126,6 +34280,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -35580,6 +35745,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -37261,6 +37437,17 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
 
 
+            ],
+          ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
             ],
           ),
 
@@ -41859,10 +42046,23 @@ class _ShlokaDetailScreenState extends State<ShlokaDetailScreen> {
 
             ],
           ),
+          bottomNavigationBar: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (_isBannerAdReady)
+                Container(
+                  width: _bannerAd.size.width.toDouble(),
+                  height: _bannerAd.size.height.toDouble(),
+                  child: AdWidget(ad: _bannerAd),
+                ),
+            ],
+          ),
 
 
         ),
+
       );
+
     }
     return Container();
 

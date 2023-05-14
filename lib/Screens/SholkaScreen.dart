@@ -3,7 +3,10 @@ import 'package:bhagavad_gita_english/utils/constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:page_transition/page_transition.dart';
+
+import '../AdHelper/adshelper.dart';
 
 class SholkaScreen extends StatefulWidget {
   final int chapter;
@@ -19,6 +22,42 @@ class _SholkaScreenState extends State<SholkaScreen> {
   final int chapter;
 
   _SholkaScreenState(this.chapter); //constructor
+
+  late BannerAd _bannerAd;
+
+  bool _isBannerAdReady = false;
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+
+    _bannerAd = BannerAd(
+      adUnitId: AdHelper.bannerAdUnitIdOfHomeScreen,
+      request: const AdRequest(),
+      size: AdSize.banner,
+      listener: BannerAdListener(
+        onAdLoaded: (_) {
+          setState(() {
+            _isBannerAdReady = true;
+          });
+        },
+        onAdFailedToLoad: (ad, err) {
+          print('Failed to load a banner ad: ${err.message}');
+          _isBannerAdReady = false;
+          ad.dispose();
+        },
+      ),
+    );
+    _bannerAd.load();
+  }
+
+
+  @override
+  void dispose() {
+    super.dispose();
+    _bannerAd.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -1722,6 +1761,19 @@ class _SholkaScreenState extends State<SholkaScreen> {
             ),
           ],
         ),
+        bottomNavigationBar: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            if (_isBannerAdReady)
+              Container(
+                width: _bannerAd.size.width.toDouble(),
+                height: _bannerAd.size.height.toDouble(),
+                child: AdWidget(ad: _bannerAd),
+              ),
+          ],
+        ),
+
+
       ),
     );
   }
